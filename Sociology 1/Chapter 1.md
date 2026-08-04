@@ -1,21 +1,21 @@
 # Chapter 1: Sociology and the Real World
 ## Key Definitions (know these cold)
 
-| Term | Definition |
-|---|---|
-| **Sociology** | The systematic or scientific study of human society and social behavior — from large-scale institutions and mass culture to small groups and individual interactions. (Latin *socius* + Greek *logos* = study of society) |
-| **Society** | A group of people who shape their lives in aggregated and patterned ways that distinguish their group from others. |
-| **Social sciences** | The disciplines that use the scientific method to examine the social world (anthropology, psychology, economics, political science, history, geography, communication). |
-| **Sociological perspective** | A way of looking at the world through a sociological lens; thinking sociologically. |
-| **Beginner's mind** | Approaching the world without preconceptions in order to see things in a new way. |
-| **Culture shock** | A sense of disorientation that occurs when entering a radically new social or cultural environment. |
-| **Sociological imagination** | A quality of the mind that allows us to understand the relationship between our **individual circumstances and larger social forces** — the "intersection between biography and history." |
-| **Microsociology** | Level of analysis studying face-to-face and small-group interactions to understand how they affect larger patterns/structures of society. |
-| **Macrosociology** | Level of analysis studying large-scale social structures to determine how they affect the lives of groups and individuals. |
-| **Theories** | Abstract propositions that explain the social world and make predictions about the future. |
-| **Paradigm** | A set of assumptions, theories, and perspectives that makes up a way of understanding social reality. |
-| **Positivism** | The theory that sense perceptions are the only valid source of knowledge (Comte's "social physics"). |
-| **Social Darwinism** | Application of evolutionary theory and "survival of the fittest" to the study of society (Spencer). |
+| Term                         | Definition                                                                                                                                                                                                                |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sociology**                | The systematic or scientific study of human society and social behavior — from large-scale institutions and mass culture to small groups and individual interactions. (Latin *socius* + Greek *logos* = study of society) |
+| **Society**                  | A group of people who shape their lives in aggregated and patterned ways that distinguish their group from others.                                                                                                        |
+| **Social sciences**          | The disciplines that use the scientific method to examine the social world (anthropology, psychology, economics, political science, history, geography, communication).                                                   |
+| **Sociological perspective** | A way of looking at the world through a sociological lens; thinking sociologically.                                                                                                                                       |
+| **Beginner's mind**          | Approaching the world without preconceptions in order to see things in a new way.                                                                                                                                         |
+| **Culture shock**            | A sense of disorientation that occurs when entering a radically new social or cultural environment.                                                                                                                       |
+| **Sociological imagination** | A quality of the mind that allows us to understand the relationship between our **individual circumstances and larger social forces** — the "intersection between biography and history."                                 |
+| **Microsociology**           | Level of analysis studying face-to-face and small-group interactions to understand how they affect larger patterns/structures of society.                                                                                 |
+| **Macrosociology**           | Level of analysis studying large-scale social structures to determine how they affect the lives of groups and individuals.                                                                                                |
+| **Theories**                 | Abstract propositions that explain the social world and make predictions about the future.                                                                                                                                |
+| **Paradigm**                 | A set of assumptions, theories, and perspectives that makes up a way of understanding social reality.                                                                                                                     |
+| **Positivism**               | The theory that sense perceptions are the only valid source of knowledge (Comte's "social physics").                                                                                                                      |
+| **Social Darwinism**         | Application of evolutionary theory and "survival of the fittest" to the study of society (Spencer).                                                                                                                       |
 
 ---
 
