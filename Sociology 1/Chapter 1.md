@@ -5,7 +5,7 @@
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Sociology**                | The systematic or scientific study of human society and social behavior — from large-scale institutions and mass culture to small groups and individual interactions. (Latin *socius* + Greek *logos* = study of society) |
 | **Society**                  | A group of people who shape their lives in aggregated and patterned ways that distinguish their group from others.                                                                                                        |
-| **Social sciences**          | The disciplines that use the scientific method to examine the social world (anthropology, psychology, economics, political science, history, geography, communication).                                                   |
+| **Social sciences**          | The disciplines that use the [[Science|scientific method]] to examine the social world (anthropology, psychology, economics, political science, history, geography, communication).                                                   |
 | **Sociological perspective** | A way of looking at the world through a sociological lens; thinking sociologically.                                                                                                                                       |
 | **Beginner's mind**          | Approaching the world without preconceptions in order to see things in a new way.                                                                                                                                         |
 | **Culture shock**            | A sense of disorientation that occurs when entering a radically new social or cultural environment.                                                                                                                       |
@@ -14,7 +14,7 @@
 | **Macrosociology**           | Level of analysis studying large-scale social structures to determine how they affect the lives of groups and individuals.                                                                                                |
 | **Theories**                 | Abstract propositions that explain the social world and make predictions about the future.                                                                                                                                |
 | **Paradigm**                 | A set of assumptions, theories, and perspectives that makes up a way of understanding social reality.                                                                                                                     |
-| **Positivism**               | The theory that sense perceptions are the only valid source of knowledge (Comte's "social physics").                                                                                                                      |
+| **Positivism**               | The theory that sense perceptions are the only valid source of knowledge (Comte's "social physics"). See [[Science]].                                                                                                                      |
 | **Social Darwinism**         | Application of evolutionary theory and "survival of the fittest" to the study of society (Spencer).                                                                                                                       |
 
 ---
@@ -42,7 +42,7 @@
 
 ## 2. How to Think Like a Sociologist
 
-### Practical vs. Scientific knowledge (Schutz 1962)
+### Practical vs. Scientific knowledge (Schutz 1962) — see [[Science]]
 - **Everyday actors** use "reciped"/practical knowledge — works for getting along day-to-day, but not necessarily coherent, clear, or consistent. (You can use a smartphone but can't explain how it works technically.)
 - **Social analysts** must "place in question everything that seems unquestionable" (Schutz 1962, p. 96) — take the perspective of a **stranger** in the social world and *verify* what the everyday actor accepts as truth.
 - **Both have strengths:** the analyst sees clearly what the actor glosses over; the actor understands implicitly what the analyst labors to grasp. Best result: combine both.
