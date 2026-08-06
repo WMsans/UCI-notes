@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "77e9e4cea7636172",
+        "id": "cebe0b7eabfd5f28",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni Study 84/Lecture Notes/Lecture 1 - Hidden Rules.md",
+                "file": "Uni Study 84/Faculty Connections Event 1 Reflection Paper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1 - Hidden Rules"
+              "title": "Faculty Connections Event 1 Reflection Paper"
             }
           }
         ]
@@ -202,6 +202,7 @@
     "Uni Study 84/Lecture Notes/Lecture 1 - Hidden Rules.md",
     "Uni Study 84/Lecture Notes",
     "Uni Study 84/Initial Self-Reflection Paper.md",
+    "Uni Study 84/Faculty Connections Event 1 Reflection Paper.md",
     "Sociology 1/Chapter 1.md",
     "Sociology 1/Lecture Notes/Lecture 1.md",
     "Sociology 1/Science.md",

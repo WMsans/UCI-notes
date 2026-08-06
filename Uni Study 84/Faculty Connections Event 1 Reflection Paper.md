@@ -1,0 +1,7 @@
+Dr. Angela Lukowski shared a lot of her stories during her college years. 
+
+The first thing she talked about is that her family has a very good culture of priotizing learning and knowledge over everything else. 
+
+Then, she talks about her experience in undergraduate studies. She went to a very small institution where only a few hundred students and faculties learn together. That institution is teaching focused, so she luckily got a lot of chance to connect with faculty members. She effectively ultilized the chance to improve her letter grade and paperwork, along with the summer school opportunities. Eventually, she managed to get an offer from South Carolina to be a grad student. Then the story becomes familiar: do more research, publish more papers, pursue a pHD and eventually become a professor at UC Irvine in 2008. 
+
+This whole process is filled with difficulties as a first generation student, even until after becoming a professor. She lists many instances, and one of the most impressive one to me is that she doesn't know where to reach out for research advisors, while this to her peers in grad school seems a common sense. 
