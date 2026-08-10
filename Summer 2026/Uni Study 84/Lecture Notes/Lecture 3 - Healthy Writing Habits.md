@@ -17,10 +17,18 @@ Community impact: blogs, personal writing, writing competitions, material we ret
 
 ## Writing inventory
 1. When and where
+	1. In an environment where people around me is also focusing on work. 
+	2. During morning. 
 2. Tools
+	1. Using laptop. 
+	2. Using a plaintext editor instead of rich text editor. 
+	3. Using vim keybind.
 3. Where do I stuck
+	1. Stuck at remembering contents that I forgot. 
 4. Which point am I confident
+	1. When revising. 
 5. Support I have and support I need
+	1. I need to get actual readers to provide feedback on my writings. 
 
 ## Writing planning
 1. Watts process
