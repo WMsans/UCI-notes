@@ -87,36 +87,3 @@ Recognizing that different cultures are merely different, instead of right or wr
 2. Do genetics or socialization influence behaviors and traits?
 
 **Socialization** is the interactive processes with others in society through which individuals *learn* the ways of behaving, thinking, and feeling that are essential for effective participation within the society, and lead to the acquisition of the Self.
-
-# The Self
-**SELF /SELF-IDENTITY** = *definitions* people hold about *themselves*, which indicate both their unique combination of biopsychosocial characteristics and overall location in the social structure
-
-![[Pasted image 20260811141006.png|461]]
-
-Emphasized the conflict between the **individual** and **society** in terms of the internalization of cultural ideas that direct human action
-
-## Three Personality Processes
-1. **Id** (本我) = biological demands of the organism
-2. **Ego** (自我) = learned behaviors which seek to satisfy the demands of the id
-3. **Superego** (超我) = demands of society beliefs, values, norms, conscience
-
-## Cooley: Mirrored Self
-1. Imagination of our appearance to others
-2. Imagination of their judgment of that appearance
-3. Self-feeling of pride/mortification based on that imagined judgment
-
-![[Pasted image 20260811141643.png|129]]
-
-**Self** = the capacity to engage in reflexive action
-**Significant Others** = significant to the self
-
-In other words, if we *do not interact* with others, we *do not have a self*. 
-### Example: wave hands
-We wave hands back because *we guess that other would think* wave back means bye. 
-
-### Self esteem
-Socialization is guessing what other people think about you. 
-Self esteem is merely our *guess of other peoples thoughts* about you. 
-However, our ability to guess is *not good*. 
-We almost always **underestimate** outselfs, since we almost always **think negatively**. 
-
