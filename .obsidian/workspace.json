@@ -4,53 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "240caa4b3faa674e",
+        "id": "d0233fe27b582000",
         "type": "tabs",
         "children": [
           {
-            "id": "ec3180abc1db6a88",
+            "id": "6d95c8cc99a3d392",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer 2026/Sociology 1/Chapter 3.md",
+                "file": "Summer 2026/Sociology 1/Midterm Exam Review Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 3"
+              "title": "Midterm Exam Review Questions"
             }
           },
           {
-            "id": "ed965eebfd35182f",
+            "id": "d7a3833d2fd56f61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer 2026/Sociology 1/Lecture Notes/Lecture 4 - Self.md",
+                "file": "Summer 2026/Sociology 1/Midterm Exam Review Questions - Answer Key.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 4 - Self"
-            }
-          },
-          {
-            "id": "eaea23d0b47e9e09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summer 2026/Sociology 1/Lecture Notes/Lecture 4 - Self.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 4 - Self"
+              "title": "Midterm Exam Review Questions - Answer Key"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summer 2026/Sociology 1/Lecture Notes/Lecture 4 - Self.md",
+                "file": "Summer 2026/Sociology 1/Midterm Exam Review Questions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -225,14 +210,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "eaea23d0b47e9e09",
+  "active": "6d95c8cc99a3d392",
   "lastOpenFiles": [
+    "Summer 2026/Sociology 1/Midterm Exam Review Questions - Answer Key.md",
+    "Summer 2026/Sociology 1/Midterm Exam Review Questions.md",
+    "Summer 2026/Sociology 1/Lecture Notes/Pasted image 20260806142443.png",
+    "Summer 2026/Sociology 1/Lecture Notes/Pasted image 20260813142658.png",
+    "Summer 2026/Sociology 1/Lecture Notes/Lecture 4 - Self.md",
     "Summer 2026/Sociology 1/Lecture Notes/Lecture 1 - What's Sociology.md",
     "Summer 2026/Sociology 1/Lecture Notes/Pasted image 20260813130814.png",
     "Summer 2026/Sociology 1/Lecture Notes/Pasted image 20260813130848.png",
-    "Summer 2026/Sociology 1/Lecture Notes/Lecture 4 - Self.md",
     "Summer 2026/Sociology 1/Lecture Notes/Pasted image 20260813143423.png",
-    "Summer 2026/Sociology 1/Lecture Notes/Pasted image 20260813142658.png",
     "Summer 2026/Sociology 1/Lecture Notes/Pasted image 20260813133454.png",
     "Summer 2026/Sociology 1/Chapter 3.md",
     "Summer 2026/Sociology 1/Lecture Notes/Lecture 3 - Culture.md",
@@ -258,13 +246,11 @@
     "Summer 2026/Uni Study 84/Collegiate Life Event 1 Reflection Paper.md",
     "Summer 2026/Uni Study 84/Lecture Notes/Lecture 3 - Healthy Writing Habits.md",
     "Summer 2026/Sociology 1/Lecture Notes/Pasted image 20260806144907.png",
-    "Summer 2026/Sociology 1/Lecture Notes/Pasted image 20260806142443.png",
     "Summer 2026",
     "Summer 2026/Misc",
     "Summer 2026/Uni Study 84/Lecture Notes/Lecture 2 - Writing in College.md",
     "Summer 2026/Uni Study 84/Lecture Notes/Writing Lab 1 - Discussion Posts.md",
     "Summer 2026/Sociology 1/Lecture Notes/Lecture 2 - Scientific Methods in Sociology.md",
-    "Summer 2026/Uni Study 84/Lecture Notes/Lecture 1 - Hidden Rules.md",
     "Summer 2026/Uni Study 84/Lecture Notes"
   ]
 }
