@@ -134,7 +134,7 @@
 | Ethical Problems               | **Few**  | **Many**      | Few      | Some                  | Some             |
 
 ### 4. Describe the two forms of bias that can intrude into social psychological studies *
-- **1) Investigator/researcher (experimenter) bias** — the researcher's own expectations, values, or characteristics influence the results: choice of what to study, sample, question wording, analysis, write-up (bias can infiltrate *every* stage). Example: Mark Regnerus's New Family Structures Survey (2012), criticized for conservative/religious funding and flawed design. (Relates to Weber's "value-free" sociology — separating facts from personal values.)
+- **1) Investigator/researcher (experimenter) bias** — the researcher's own expectations, values, or characteristics influence the results: choice of what to study, sample, question wording, analysis, write-up (bias can infiltrate *every* stage). Example: Mark Regnerus's New Family Structures Survey (2012), criticized for conservative/religious funding and flawed design. (Relates to Weber's "value-free" sociology — separating facts from PErsonal values.)
 - **2) Participant/subject bias** — participants react to the process of being studied and may give the researcher what they think is wanted: **demand characteristics** (guessing the hypothesis and behaving accordingly), social desirability, evaluation apprehension, dishonesty in self-reports. Classic example: **reactivity / the Hawthorne effect** — productivity rose with *every* change because subjects knew they were being studied.
 - *(Verify terminology against slides/textbook — notes cover "bias" (researcher-held opinion) and "reactivity/Hawthorne effect" explicitly.)*
 

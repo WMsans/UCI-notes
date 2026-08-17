@@ -62,26 +62,92 @@
 
 ## Methods
 1. What are the objectives and characteristics of scientific research?
+	1. To produce and verify sociology theory *with evidence*. 
+	2. It has a process of coming up with hypotheses and verifying it with *Objective* observations or experiments. 
+	3. Must be testable/falsifiable
 2. Discuss how each of the research methods covered in class might be used to gather information/data about a social issue.
+	1. Experimentation
+		1. To find cause and effect relationship
+	2. Observation (*Ethnography*)
+		1. behavior as it occurs naturally
+	3. Surveys
+		1. People's opinions
+		2. Non -public data
+	4. *Archive Analysis*
+		1. Study on existing documents
+		2. interpreting and coding documents
+	5. *Meta analysis*
+		1. Study of studies
+		2. making sense of large numbers of studies on the same phenomena with divergent findings.
 3. Be able to explain which methods provide a better fit to which kinds of issues. Contrast internal and external validity.
 4. Describe the two forms of bias that can intrude into social psychological studies.
+	1. Response bias
+	2. Experimenter bias (*ethnocentrism*)
 5. How can harm to participants of social psychological studies be reduced or prevented?
+	1. Be open and clear
+	2. Be anonymous
+	3. *Psychological harm*: avoid personal questions
 6. Discuss the ethical issues in social psychological research.
+	1. Informed consent
+	2. Institutional review
 
 ## Culture
 1. What is culture?
+	1. The *system of symbols* in a group of people that differentiate them from others and *create, store, and organize their affairs*. 
+	2. It can be passed down by generations. 
 2. What are the components of culture?
+	1. Beliefs
+		1. Common facts
+	2. Values
+		1. Common right or wrong
+	3. Norms
+		1. Common rules
+	4. Symbols and language
+	5. *Roles & statuses*
 3. How is society internalized?
+	1. Internalization
+		1. We internalize the culture inside ourselves and allow the culture to affect our thoughts and behaviors
+	2. *Conscience*
+		1. internal operation of ethical/moral principles that control the actions
 4. Distinguish between dominant culture, subcultures, and countercultures. Be able to provide examples of each.
+	1. Dominant culture
+		1. The culture on a large scale at level of society
+		2. *the culture of the group in power*
+	2. Subcultures
+		1. The culture that differs from the dominant culture while still harmoniously within the mainstream
+	3. Countercultures
+		1. The culture that completely differs from the dominant culture and does the opposite way of mainstream. 
 5. What is cultural variability? How do cultures change?
+	1. *cultural differences resulting from social change*
+	2. *Cultural diffusion*
+	3. *Cultural imperialism*
 6. What is cultural diffusion? Describe isomorphism and cultural imperialism.
+	1. Cultural diffusion
+		1. A culture would be affected by and affect the other cultures around it.
+		2. The symbols, belief, norms and values would be affected by each other.
+	2. *Isomorphism*
+		1. *once-distinct cultures become increasingly similar*
+	3. Cultural imperialism
+		1. imposition of one culture's beliefs/practices on another
+		2. Using media, capital and so on. 
 
 ## Socialization and the Self
 1. What is socialization?
+	1. Interaction with the society and how it changes the individual. 
+	2. *Ultimately leads to self*. 
 2. How does socialization make us like all other members of society, but distinctive in other ways?
+	1. it pushes people toward the mainstream
+	2. Every individual is in a special position in the social structure
 3. How did Freud view personality and the self? (pleasure principle/reality principle, three personality processes)
+	1. *Pleasure principle vs. reality principle*: *the id operates on the pleasure principle (immediate gratification, avoid pain); the ego operates on the reality principle (reason, dealing with the real world).*
+	2. Id: the original self. The instinct from organism. Seek for pleasure. 
+	3. Ego: The true self. The reasoning toward the reality
+	4. Superego: The demands from the society. 
 4. Describe Cooley's looking glass self
+	1. Our personality/self is created through interaction with others. 
+	2. We guess how others would think/react to our behavior and change our behavior accordingly. 
 5. List and briefly describe Mead's three stages in the development of the self.
+	1. 
 6. What is the definition of the situation?
 7. What is the difference between front and back regions? Provide examples.
 8. What are the three types of impression management? Which would you use in different situations?
