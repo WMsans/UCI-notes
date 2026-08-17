@@ -147,19 +147,63 @@
 	1. Our personality/self is created through interaction with others. 
 	2. We guess how others would think/react to our behavior and change our behavior accordingly. 
 5. List and briefly describe Mead's three stages in the development of the self.
-	1. 
+	1. *Preliminary (Preparatory) Stage*: presymbolic communication. We behave to gain a certain reaction from surrounding. 
+	2. *Play Stage*: Symbolic Communication. We reinforce our knowledge by repeat the symbols and orle playing. 
+	3. *Game stage*: *taking the role of several others simultaneously. Developes abstract thinking about rules and norms*. 
+	4. 
 6. What is the definition of the situation?
+	1. *an agreement with others about "what is going on" in a given circumstance*
 7. What is the difference between front and back regions? Provide examples.
+	1. Front region is what most people would see of the performer
+	2. Back region is what people would not usually see of the performer. The performer rehearse and relax in this region. 
 8. What are the three types of impression management? Which would you use in different situations?
+	1. Authentic Self
+		1. The true thoughts for ourselfs
+	2. Ideal Self
+		1. The vision of self that we truly want of become
+	3. Tactical Self
+		1. The self that's acted to present in front of people. 
 9. What is the norm of reciprocity in self-disclosure?
+	1. *self-disclosure*: revealing personal information about ourselves to another person
+	2. *disclosure calls forth disclosure*
 10. Describe tactical self-presentation
+	1. We represent ourselves in the way we think that would favor others around us instead of that best represents our thoughts. 
 11. What is the tactic of ingratiation?
+	1. *a self-presentation/impression-management tactic aimed at getting others to like us *
 12. How do aligning actions help us to save face?
+	1. *Words that points out the awkwardness in the setting*
+	2. They work by explaining or reframing what we did so it seems consistent with norms, protecting our identity/face and helping others keep the interaction running smoothly
 13. What is a spoiled identity?
+	1. *It is when we failed to manage our impression toward others*. 
 14. What is stigma? What are the reactions to stigma?
+	1. *attribute that deeply discredits an individual, usually caused by spoiled identity*
+	2. *Reactions include avoiding social and interaction*. 
 15. List and describe the four agents of childhood socialization
+	1. Family
+	2. Peers
+	3. School
+	4. Mass media
 16. What are some of the techniques used to socialize children in schools?
+	1. Grading
+	2. Comparing
+	3. Hidden curriculum
 17. How do the agents of socialization reinforce traditional gender roles?
+	1. *children observe what moms/dads, sisters/brothers are expected to do (mow the lawn vs. fold laundry) and convert these into general rules about gender*
 18. What are some of the similarities and differences between childhood and adulthood socialization?
+	1. Similarities: 
+		1. Both are processes of **learning norms, values, and roles through interaction** with others.
+		2. Both involve **internalization** and modification of the self.
+	2. Differences
+		1. *Childhood is primary socialization* where we create self
+		2. *Adulthood is secondary socialization* where we learn different roles. 
 19. Define and be able to provide examples for anticipatory socialization and reverse socialization.
+	1. Anticipatory socialization is learning knowledge of society in advance. 
+	2. Reverse socialization is teaching others knowledge of society
 20. What is role strain? How do people resolve it?
+	1. *When the much responsibilities lands on a single role.* 
+		1. *For example, role of parents.*
+	2. *Solutions*
+		1. *Role exit*
+		2. *Role making: shaping the role to fit the self*
+		3. *Prioritizing*
+
