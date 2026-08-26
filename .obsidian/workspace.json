@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d0233fe27b582000",
+        "id": "b716394f5e5a5b89",
         "type": "tabs",
         "children": [
           {
-            "id": "05329a29afb56883",
+            "id": "d77a0e797c896024",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Summer 2026/Sociology 1/Lecture Notes/Pasted image 20260825144242.png"
+                "file": "Summer 2026/Sociology 1/Discussion Exercise #5.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260825144242"
+              "icon": "lucide-file",
+              "title": "Discussion Exercise #5"
             }
           }
         ]
@@ -97,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summer 2026/Sociology 1/Lecture Notes/Pasted image 20260825144242.png",
+                "file": "Summer 2026/Sociology 1/Discussion Exercise #5 - Peer Response (Jocelynn).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,10 +198,13 @@
   },
   "active": "e3da4a6b7d552370",
   "lastOpenFiles": [
+    "Summer 2026/Sociology 1/Discussion Exercise #5.md",
+    "Summer 2026/Sociology 1/Discussion Exercise #5 - Peer Response (Jocelynn).md",
+    "Summer 2026/Sociology 1/Discussion Exercise #4.md",
+    "Summer 2026/Sociology 1/Lecture Notes/Pasted image 20260825144242.png",
     "Summer 2026/Sociology 1/Lecture Notes/Lecture 7 - Stratified Society.md",
     "Summer 2026/Sociology 1/Lecture Notes/Pasted image 20260825145902.png",
     "Summer 2026/Sociology 1/Lecture Notes/Pasted image 20260825144308.png",
-    "Summer 2026/Sociology 1/Lecture Notes/Pasted image 20260825144242.png",
     "Summer 2026/Sociology 1/Lecture Notes/Lecture 6 - Deviance.md",
     "Untitled.md",
     "Summer 2026/Sociology 1/Chapter 7.md",
@@ -216,7 +221,6 @@
     "Summer 2026/Sociology 1/Chapter 4.md",
     "Summer 2026/Sociology 1/Midterm Exam Review Questions - Answer Key.md",
     "Summer 2026/Uni Study 84/Lecture Notes/Lecture 6 - Undergrad Research.md",
-    "Summer 2026/Sociology 1/Discussion Exercise #4.md",
     "Pasted image 20260818150329.png",
     "Pasted image 20260818144021.png",
     "Summer 2026/Sociology 1/Chapter 5.md",
@@ -230,7 +234,6 @@
     "Summer 2026/Sociology 1/Lecture Notes/Lecture 3 - Culture.md",
     "Summer 2026/Uni Study 84/Personal Action Plan.md",
     "Summer 2026/Sociology 1/Chapter 4 (中文).md",
-    "Summer 2026/Sociology 1/Chapter 2 (中文).md",
     "Summer 2026/Misc",
     "Summer 2026",
     "Summer 2026/Misc",
