@@ -50,3 +50,42 @@ However, it's often **unclear which roles are more critical or desirable**, ince
 While our identities may be **structured by preexisting categories**, NOT ourself, we still must **perform** those identities in everyday interactions
 ![[Pasted image 20260825145902.png|241]]
 
+## Socioeconomic Status (SES) and Life Chances
+1. Health
+	1. Higher SES individuals have more access to **healthcare resources**
+	2. They typically feel healthier and live longer
+2. Familiy
+	1. People are more likely to have relationships with and marry people **similar to them**
+		1. Homogamy (同类婚配)
+	2. Higher SES women marry and have children later, also tend to have fewer children
+3. Education
+	1. Performance in school affects where you go to college, what jobs you can get, and how much you are paid 
+4. Income
+	1. Lower SES individuals are more **vulnerable to unemployment** and underemployment 
+5. Criminal Justice System
+	1. Lower SES individuals are more likely to **encounter (被逮住)** as both a victim and perpetrator
+
+## Poverty
+1. Relative deprivation
+	1. A person’s standard of living is below other members of society
+2. Absolute deprivation
+	1. People can’t meet minimal standards of food, shelter, and healthcare
+
+![[Pasted image 20260827132918.png|420]]
+> Most people in poverty are employed. 
+
+### Culture of Poverty
+The poor, because they were excluded from mainstream society, developed a **way of life** that was qualitatively different from the middle class
+1. Resignation, fatalism, and acceptance of fate rather than trying to improve their lives
+
+Criticisms
+1. Suggests poverty is a cultural problem and not an economic one
+2. Victim blaming
+3. Ignores the social structural factors that shape culture
+
+**Just world hypothesis**: Ignores the social structural factors that shape culturethe tendency to see victims of social injustice as deserving of their fates
+
+**Invisibility of poverty**: most people don't see poverty unless they are a part of it. 
+
+![[Pasted image 20260827133619.png|398]]
+
