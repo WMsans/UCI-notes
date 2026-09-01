@@ -59,12 +59,12 @@
 
 ---
 
-## 📍 Chapter Opener: #MeToo
+## 📍 Chapter Opener: MeToo
 
-- **October 15, 2017:** the hashtag **#MeToo** exploded across social media. The term was coined in **2006 by civil rights activist Tarana Burke** as a plan of action to help survivors of sexual violence heal — she was laying the foundation for a powerful social movement.
+- **October 15, 2017:** the hashtag **MeToo** exploded across social media. The term was coined in **2006 by civil rights activist Tarana Burke** as a plan of action to help survivors of sexual violence heal — she was laying the foundation for a powerful social movement.
 - **Earlier that October:** the *New York Times* and *New Yorker* reported that **Harvey Weinstein**, one of the most powerful men in Hollywood, had been accused by multiple women of sexual harassment and assault. **Alyssa Milano** tweeted the phrase at a friend's urging — "If all the women and men who have been sexually harassed, assaulted or abused wrote 'me too' as a status, we might give people a sense of the magnitude of the problem" — and publicly credited **Tarana Burke** the next day.
 - **The overlooked credit:** "All too often, the crucial social justice work of Black women goes unnoticed, while white women are seen as leaders of feminist movements."
-- **The scale:** within 24 hours #MeToo was **tweeted 825,000 times** and appeared in **more than 12 million Facebook posts**.
+- **The scale:** within 24 hours MeToo was **tweeted 825,000 times** and appeared in **more than 12 million Facebook posts**.
 - The reckoning spread from entertainment to **politics, academia, Silicon Valley, and beyond** — and down to everyday women and men speaking out. Dramatic evidence of how deeply ingrained sexual harassment and abuse are in our culture, and of the persistence of movements fighting sexism and gender inequality.
 
 > **Lesson:** gender and sexual identities are about **what we do** in addition to **who we are** — pay attention to the processes that construct the meanings of genders and sexualities, and to the real consequences of gender and sexual inequality.
@@ -165,7 +165,7 @@ Gender and sexuality, like race/ethnicity, have been used to establish hierarchi
 - **Male privilege** = unearned advantages: men may take up more physical space, aren't expected to smile at all times, are less likely to be interrupted while speaking.
 - **Patriarchal account of origins:** biological differences in early societies — hunting and warfare (scarce, prized resources) went to men, who became powerful by controlling distribution; women handled the "home" territory. **This does not explain persistence** — physical strength is no longer required in most jobs, and women are not restricted by childbearing demands.
 - **Sexism** — the belief that one sex (usually male) is superior — persists in all contemporary cultures as an ideology that justifies inequality. Its extreme form is **misogyny** (contempt for or hatred of women). **Moya Bailey (2010, 2021)** coined **"misogynoir"** for the unique anti-Black sexism Black women experience.
-- Women occupy a **minority position** even though they are a numerical majority — earning less for the same job, passed over for promotion. #MeToo points to the need for more work toward gender equity.
+- Women occupy a **minority position** even though they are a numerical majority — earning less for the same job, passed over for promotion. MeToo points to the need for more work toward gender equity.
 
 ### Prejudice and Discrimination
 - **Prejudice** = entrenched attitudes/prejudgments about a group's presumed characteristics, applied to all members, unlikely to change — rooted in stereotypes (the "dumb blonde," the "promiscuous gay man") and hard to avoid since they permeate culture and institutions.
@@ -336,49 +336,49 @@ Most societies throughout history have been **patriarchal and heteronormative**,
 
 ## Key People (cheat sheet)
 
-| Person | Contribution |
+| Person | Contribution                                                                             |
 |---|---|
-| **Tarana Burke** | Coined "#MeToo" (2006) for sexual-violence survivors; credited publicly by Alyssa Milano |
-| **Alyssa Milano** | Tweeted #MeToo viral (Oct 15, 2017) |
-| **Harvey Weinstein** | Hollywood producer accused by multiple women — catalyzed the reckoning |
-| **Anne Fausto-Sterling** | Intersex — ~17 in 1,000 births (2000) |
-| **Georgiann Davis** | Intersex as a biological variation, not a disorder (2015) |
-| **Alfred Kinsey** | Kinsey Scale — sexuality as a fluid continuum, not binary (1940s) |
-| **Judith Butler** | Queer theory — rejects single identity categories (1993); feminist theory (1999) |
-| **Eve Kosofsky Sedgwick** | Queer as "possibilities, gaps, overlaps, dissonances, and resonances" (1993) |
-| **Kara Smith** | Gender role socialization begins before birth (2005) |
+| **Tarana Burke** | Coined "MeToo" (2006) for sexual-violence survivors; credited publicly by Alyssa Milano  |
+| **Alyssa Milano** | Tweeted MeToo viral (Oct 15, 2017)                                                       |
+| **Harvey Weinstein** | Hollywood producer accused by multiple women — catalyzed the reckoning                   |
+| **Anne Fausto-Sterling** | Intersex — ~17 in 1,000 births (2000)                                                    |
+| **Georgiann Davis** | Intersex as a biological variation, not a disorder (2015)                                |
+| **Alfred Kinsey** | Kinsey Scale — sexuality as a fluid continuum, not binary (1940s)                        |
+| **Judith Butler** | Queer theory — rejects single identity categories (1993); feminist theory (1999)         |
+| **Eve Kosofsky Sedgwick** | Queer as "possibilities, gaps, overlaps, dissonances, and resonances" (1993)             |
+| **Kara Smith** | Gender role socialization begins before birth (2005)                                     |
 | **Tey Meadow** | Ethnography of families of trans kids — parents facilitating gender nonconformity (2018) |
-| **C. J. Pascoe** | *Dude, You're a Fag* (2007) — boys policing masculinity with homophobic epithets |
-| **Sarah Miller** | Girls' bullying: slut shaming, sexual rumors (2016) |
-| **Michael Kimmel** | Teen boys' prestige: athletics, humor, risk-taking (2009); "real man" confusion (1987) |
-| **Thomas Pettigrew & Linda Tropp** | Contact hypothesis — contact reduces prejudice (2011) |
-| **Moya Bailey** | Coined **"misogynoir"** — anti-Black sexism (2010, 2021) |
-| **Françoise Brougher** | Pinterest COO fired 2020 — $22.5M settlement; "The Pinterest Paradox" |
-| **Raewyn Connell & James Messerschmidt** | **Hegemonic masculinity** (2005) |
-| **Elliot Rodger** | Incel mass shooter, Isla Vista 2014 (6 killed, 14 injured) |
-| **Brock Turner / Chanel Miller** | Stanford sexual assault case; Miller's memoir *Know My Name* (2019) |
-| **Lisa Wade** | Hookup culture (2017) |
-| **Talcott Parsons** | Instrumental vs. expressive family roles (Parsons and Bales 1955) |
-| **Friedrich Engels** | Gender inequality as derivative of class inequality and private property (1884) |
-| **Zillah Eisenstein** | All men benefit from gender inequality in the short term (1979) |
-| **Harold Garfinkel** | "Agnes" — doing gender through interaction (1967/1984) |
-| **Elizabeth Lee & Janice McCabe** | "Chilly climate" — men take up more "sonic space" in classrooms (2021) |
-| **bell hooks / Catharine MacKinnon** | Feminist theory linking gender with race, class, and sexual orientation (2003/2005) |
-| **Arlie Hochschild** | **The second shift** (Hochschild and Machung 1989) |
-| **C. Nicole Mason** | Coined **"she-cession"** for women's pandemic job losses (2020) |
-| **Miliann Kang** | Nail salons — intersectionality of gender, race, class, immigration (2010) |
-| **Elizabeth Cady Stanton & Lucretia Mott** | Organized Seneca Falls convention (1848); Declaration of Sentiments |
-| **Susan B. Anthony** | Suffragist — died before women won the vote (1920) |
-| **Charlotte Woodward** | The only Declaration signer to live to cast a ballot |
-| **Betty Friedan** | *The Feminine Mystique* (1963) — "the problem that had no name"; NOW (1966) |
-| **Elizabeth Dole** | Told she was "taking an opportunity away from a more deserving man" (Harvard Law, 1962) |
-| **Rebecca West** | Early feminist — "differentiate me from a doormat or a prostitute" (1913) |
-| **Dana Rosenfeld** | Two LGBTQ cohorts — before vs. after the liberation movement (2003) |
-| **Lisa Duggan / Cathy Cohen** | Critique of marriage equality — "hierarchies of worthiness" (2003/2005) |
-| **Dr. Rachel Levine** | First openly trans federal official confirmed by the Senate (2021) |
-| **Michelle Bachelet** | Called trafficking "one of the fastest growing" and most lucrative crimes |
-| **Nadia Murad** | ISIS captive turned activist; Nobel Peace Prize (2018) |
-| **Jeffrey Epstein / Keith Raniere** | Sex-trafficking convictions (financier; NXIVM leader) |
+| **C. J. Pascoe** | *Dude, You're a Fag* (2007) — boys policing masculinity with homophobic epithets         |
+| **Sarah Miller** | Girls' bullying: slut shaming, sexual rumors (2016)                                      |
+| **Michael Kimmel** | Teen boys' prestige: athletics, humor, risk-taking (2009); "real man" confusion (1987)   |
+| **Thomas Pettigrew & Linda Tropp** | Contact hypothesis — contact reduces prejudice (2011)                                    |
+| **Moya Bailey** | Coined **"misogynoir"** — anti-Black sexism (2010, 2021)                                 |
+| **Françoise Brougher** | Pinterest COO fired 2020 — $22.5M settlement; "The Pinterest Paradox"                    |
+| **Raewyn Connell & James Messerschmidt** | **Hegemonic masculinity** (2005)                                                         |
+| **Elliot Rodger** | Incel mass shooter, Isla Vista 2014 (6 killed, 14 injured)                               |
+| **Brock Turner / Chanel Miller** | Stanford sexual assault case; Miller's memoir *Know My Name* (2019)                      |
+| **Lisa Wade** | Hookup culture (2017)                                                                    |
+| **Talcott Parsons** | Instrumental vs. expressive family roles (Parsons and Bales 1955)                        |
+| **Friedrich Engels** | Gender inequality as derivative of class inequality and private property (1884)          |
+| **Zillah Eisenstein** | All men benefit from gender inequality in the short term (1979)                          |
+| **Harold Garfinkel** | "Agnes" — doing gender through interaction (1967/1984)                                   |
+| **Elizabeth Lee & Janice McCabe** | "Chilly climate" — men take up more "sonic space" in classrooms (2021)                   |
+| **bell hooks / Catharine MacKinnon** | Feminist theory linking gender with race, class, and sexual orientation (2003/2005)      |
+| **Arlie Hochschild** | **The second shift** (Hochschild and Machung 1989)                                       |
+| **C. Nicole Mason** | Coined **"she-cession"** for women's pandemic job losses (2020)                          |
+| **Miliann Kang** | Nail salons — intersectionality of gender, race, class, immigration (2010)               |
+| **Elizabeth Cady Stanton & Lucretia Mott** | Organized Seneca Falls convention (1848); Declaration of Sentiments                      |
+| **Susan B. Anthony** | Suffragist — died before women won the vote (1920)                                       |
+| **Charlotte Woodward** | The only Declaration signer to live to cast a ballot                                     |
+| **Betty Friedan** | *The Feminine Mystique* (1963) — "the problem that had no name"; NOW (1966)              |
+| **Elizabeth Dole** | Told she was "taking an opportunity away from a more deserving man" (Harvard Law, 1962)  |
+| **Rebecca West** | Early feminist — "differentiate me from a doormat or a prostitute" (1913)                |
+| **Dana Rosenfeld** | Two LGBTQ cohorts — before vs. after the liberation movement (2003)                      |
+| **Lisa Duggan / Cathy Cohen** | Critique of marriage equality — "hierarchies of worthiness" (2003/2005)                  |
+| **Dr. Rachel Levine** | First openly trans federal official confirmed by the Senate (2021)                       |
+| **Michelle Bachelet** | Called trafficking "one of the fastest growing" and most lucrative crimes                |
+| **Nadia Murad** | ISIS captive turned activist; Nobel Peace Prize (2018)                                   |
+| **Jeffrey Epstein / Keith Raniere** | Sex-trafficking convictions (financier; NXIVM leader)                                    |
 
 ---
 
