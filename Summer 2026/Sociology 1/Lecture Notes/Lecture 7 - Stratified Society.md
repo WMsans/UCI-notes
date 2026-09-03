@@ -51,6 +51,7 @@ While our identities may be **structured by preexisting categories**, NOT oursel
 ![[Pasted image 20260825145902.png|241]]
 
 ## Socioeconomic Status (SES) and Life Chances
+**Government Policy** and **Friends**. 
 1. Health
 	1. Higher SES individuals have more access to **healthcare resources**
 	2. They typically feel healthier and live longer
@@ -83,7 +84,7 @@ Criticisms
 2. Victim blaming
 3. Ignores the social structural factors that shape culture
 
-**Just world hypothesis**: Ignores the social structural factors that shape culturethe tendency to see victims of social injustice as deserving of their fates
+**Just world hypothesis**: Ignores the social structural factors that shape culturethe tendency to see victims of social injustice as **deserving of their fates**
 
 **Invisibility of poverty**: most people don't see poverty unless they are a part of it. 
 

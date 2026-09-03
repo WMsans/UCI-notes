@@ -7,9 +7,9 @@
 4. These meanings are modified and filtered through an interpretative process that each individual uses in dealing with outward signs
 
 # Race and Ethnicity
-**Race** = a socially defined category based on real or perceived biological differences between groups of people
+**Race** = a socially defined category based on real or perceived **biological** differences between groups of people
 
-**Ethnicity** = a socially defined category based on common language, religion, nationality, history or some other cultural factor
+**Ethnicity** = a socially defined category based on common language, religion, nationality, history or some other **cultural** factor
 
 **Symbolic Identity** = Expression of group membership
 
@@ -25,10 +25,11 @@
 
 **Discrimination** = **unequal treatment** of individuals based on their membership in a social group, usually **motivated by prejudice**
 
-# Discrimination
+## Discrimination
 **Individual Discrimination** = when one person treats others unfairly because of their race and ethnicity
 
 **Institutional Discrimination** = systematic and widespread, it occurs when institutions practice discriminatory policies that affect whole groups of individuals
+> Reinforce itself
 
 # Privilege
 **Privilege** = an unlearned advantage accorded to members of dominant social groups
