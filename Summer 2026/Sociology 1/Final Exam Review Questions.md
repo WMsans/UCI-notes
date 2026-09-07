@@ -110,33 +110,112 @@
 		1. Poor children almost never becomes rich
 	2. Cultural capital is the skills and knowledge that only belongs to upperclassmen. They allows upperclassmen to gain advantages in their class. 
 5. What are the effects of social class on life chances? Be specific.
+	1. Health
+		1. Higher class get more healthcare resources
+	2. Education
+		1. Higher class get higher education
+	3. Income
+		1. Higher class don't necessarily have higher income, but they do have much more wealth
+	4. Family
+		1. High class tend to find mate of high class.
+	5. Crime
+		1. Higher class tend to be caught less when violating law. 
+		2. As a result, higher class have less crime rate. 
+		3. *Lower SES individuals are more likely to **encounter (被逮住)** as both a victim and perpetrator*
 6. Compare and contrast closed and open stratification systems. Which is the U.S.?
+	1. Closed stratification is where people from one strata is possible to move to other strata.
+	2. Open stratification is where people from one strata is very hard or impossible to move to other strata
+	3. US is a closed stratification system. 
 7. Distinguish between intergenerational mobility, intragenerational mobility, and structural mobility
+	1. Intergenerational mobility is where people need multiple generations to move to other strata.
+	2. Intragenerational Mobility is where people can move to other strata within a single generations lifespan.  
 8. Distinguish between absolute and relative poverty. What characteristics do people in poverty share?
+	1. Absolute poverty is when one cannot afford basic need supplies. 
+	2. Relative poverty is when one has less wealth or income than the other member of society. 
+	3. Characteristics
+		1. Mostly employed
+		2. Elderly
+		3. Minority groups
+		4. Higher concentrations in the South
+		5. Life quality is lower than other members of society
 9. Explain the Culture of Poverty argument. What are some criticisms of this argument?
+	1. Culture of poverty states that the people in poverty are in poverty due to some specific common behavior and beliefs. 
+	2. This argument indicates that the people in poverty are willing choosing to be poor, while the truth is that they are poor due to the systematic and structural exploitation in the society. 
 10. What affects someone's ability to exit homelessness in Los Angeles?
+	1. Friends, and Government Policy. 
 
 ## Race and Ethnicity
 
 1. Define race and ethnicity. Why do sociologists view them as social constructs?
+	1. Race is a socially defined category based on real or perceived biological differences
+	2. Ethnicity is a socially defined category based on cultural factors
 2. Distinguish between symbolic and situational identities. Provide examples.
+	1. Symbolic identity is *Expression of group membership*
+	2. Situational identities is expression in that moment, while downplaying it in other moments
 3. Define majority and minority groups. How are they different from numerical majorities/minorities?
+	1. Majority groups are the group in power.
+	2. Minority groups are the groups that have less access to power and resources. 
 4. Distinguish between racism, prejudice, and discrimination.
+	1. Racism is *claimed superiority of one racial or ethnic group over another*
+	2. Prejudice is pre-assumed properties on group members merely based on the fact that the member is in that group. 
+		1. *an idea about the characteristics of a group that is applied to all members of that group and is unlikely to change regardless of the evidence against it*
+	3. Discrimination is the behavior of unequally treating people based on their groups. 
+		1. Usually driven by prejudice
 5. Distinguish between individual and institutional discrimination. Provide examples.
+	1. Individual discrimination is one individual unequally treating individuals
+		1. For instance, an employer refuse to hire black workers merely based on their skin color
+	2. Institutional discrimination is systematic unequal treatment to a group of people, supported by institutional policy. 
+		1. For instance, a housing institution of a state create laws to prevent black people buying houses. 
 6. What is redlining. Is it an example of individual or institutional discrimination? Explain.
+	1. Institutional prevention of certain groups doing something
+		1. Example: minority groups not able to get credit
+	2. It is institutional discrimination
 7. What is colorblind racism? Contrast it with race consciousness.
+	1. An ideology that removes race as an explanation for any form of unequal treatment
+		1. the belief that we live in a society where prejudice and discrimination no longer exist.
+	2. Race consciousness is an ideology that **acknowledges race as a powerful social construct**
+		1. Alternative to color bind
 8. What is cultural appropriation? What are its effects? Provide examples
+	1. Cultural appropriation is the adoption of elements of culture that belongs to an oppressed group by the dominant group, without permission. 
+	2. The effects
+		1. The culture is twisted
+		2. Is commercialized
+		3. The group would be discriminated against due to the use of the stolen cultural elements. 
+	3. An example is that the clothing element of a African culture is used in a design of a popular clothing brand. 
 9. How do functionalist, conflict, and symbolic interaction theorists explain race and racism? Compare and contrast.
+	1. Functionalist
+		1. *Cultural differences and the lack of integration into the larger society on the part of minorities tend to feed fear and hostility*
+		2. Group differences would increase the cohesion of the groups. 
+	2. Conflict Theory
+		1. Racism is a form a oppression and control of the higher class to the lower classes. 
+		2. They are ultimately driven my economic desires. 
+		3. The upper class institutionalize racist ideas. 
+	3. Symbolic interactionism
+		1. Race are created in everyday interactions.
+		2. Race and ethnicity are part of our *identity* and are displayed as part of our self *presentation*
 10. What are the effects of race and ethnicity on life chances? Be specific.
 11. Distinguish between assimilation and pluralism. What are some criticisms of assimilation?
+	1. Assimilation is the *process of a minority group being obsorbed by the majority group*
+	2. Pluralism is *encouraging the variation of different cultures in the society*
+	3. The critics of assimilation is that this process would form into color blind racism. 
 
 ## Gender and Sexuality
 
 1. Distinguish between sex and gender.
+	1. Sex is bio trait
+	2. Gender is cultural identity
 2. What does gender expression refer to? Provide examples.
+	1. Gender expression is the behavior and presentation of one's gender identity. 
+	2. For instance, people identified as female would wear dress. 
 3. Distinguish between essentialist and constructivist arguments? How do each view gender? Why do sociologists rely on the latter?
+	1. Essentialists see only sex, without cultural influences.
+	2. Constructivist see cultural identity is the driven force. 
+	3. Sociologiest like constructivist more because cultural factors are what sociologists care. 
 4. What is gender role socialization? Provide an example from your own life.
+	1. the process of learning what constitutes masculinity and femininity
+	2. Example: the family giving gender roles to chores. 
 5. Define sexuality/sexual identity
+	1. 
 6. What is the Kinsey Scale? How does it view sexuality? Why is this approach useful?
 7. What are the four agents of socialization? How do they contribute to gender role socialization? Be specific.
 8. Define sexism. Define patriarchy.
