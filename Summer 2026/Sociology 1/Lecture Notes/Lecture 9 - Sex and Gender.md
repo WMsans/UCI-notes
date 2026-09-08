@@ -85,7 +85,7 @@ Argument: Some social roles are better suited to one gender or another
 1. Instrumental v Expressive Familial Roles (Parsons 1955)
 	1. Instrumental = the family member that provides material support, task oriented, an authority figure and breadwinner
 	2. Expressive = the family member that provides emotional support and nurturing
-### Functionalism
+### Conflict Theory
 Argument: Men have historically had access to most of society’s material resources and privileges, and consequently seek to maintain their dominance
 1. Gender inequality is a derivative of class inequality (Engels)
 	1. Women reproduce the labor force that capitalist rely on for free

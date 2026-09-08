@@ -217,23 +217,86 @@
 5. Define sexuality/sexual identity
 	1. 
 6. What is the Kinsey Scale? How does it view sexuality? Why is this approach useful?
+	1. human sexuality is far more diverse than previously assumed — people are not exclusively heterosexual or homosexual but fall along a wide spectrum. This spectrum is Kinsey scale.
+	2. sexual orientation is best understood as a fluid continuum
+	3. it captures the real diversity of human sexuality that simple "gay/straight" labels miss
 7. What are the four agents of socialization? How do they contribute to gender role socialization? Be specific.
+	1. Family
+		1. Gender specific chores and clothing
+	2. Peers
+		1. Gender segregated play
+	3. School
+		1. Teachers favor boys more
+		2. Give gender specific tasks. 
+	4. Mass media
+		1. Give stereotype gender roles
 8. Define sexism. Define patriarchy.
+	1. Sexism is viewing one gender superior than other.
+	2. Patriarchy is a type of sexism that views male as superior than other. 
 9. What are examples of institutional and individual discrimination faced by women and LGBTQ individuals? (hint: can be different for each group)
+	1. 
 10. What are microagressions? Provide an example. Why are they dangerous?
 11. How do functionalist, conflict, and symbolic interaction theorists explain gender and sexuality? Compare and contrast.
+	1. Functionalism
+		1. *Some social roles are better suited to one gender or another*
+	2. Conflict Theory
+		1. Male used to be dominating society and preventing other genders from gaining resources
+		2. Gender inequality is a derivative of class inequality. 
+	3. Interactionism
+		1. Gender is a result of daily interaction. 
+		2. Gender is socially constructed and maintained in everyday life
 12. What are the effects of gender on life chances in terms of family and health? What are the effects of sexuality on life chances in terms of family and health? Be specific.
 
 ## Social Institutions
 
 1. What are social institutions? How do functionalist, conflict, and symbolic interaction theorists explain the role of institutions? Compare and contrast.
+	1. Social institutions are *systems and structures within society that shape the activities of groups and individuals*
+	2. Functionalism
+		1. Social institutions stabilize the society by providing critical functions and services.
+	3. Conflict Theory
+		1. Social institutions are created and maintained by upper class, thus it would help the upper class exploit the people in the society and maintain the rule of the upper class. 
+	4. Symbolic interactionism
+		1. *social institution are created by individual actions*
 2. Compare and contrast power and authority.
+	1. Power is the ability to control
+	2. *Authority is the legality to wield power. *
 3. Describe the types of government. Give examples.
+	1. Authoritarian government
+		1. Government *by and for a small number of elites*
+		2. E.g. Syria
+	2. Monarch Government
+		1. Government with a king or queen to control everything.
+		2. E.g. UK
+	3. Democratic Government
+		1. a political system in which all citizens have the right to participate
+		2. E.g. India
+	4. Totalitarianism Government
+		1. Extreme authoritarian. Trying to control everything in the society.
+		2. E.g. North Korea
+	5. Dictatorships
+		1. One dictator to  rule them all.
+		2. E.g. Taliban
 4. What can affect participation in a political system?
+	1. Personal: age, race, gender, sexual orientation, religion, geography, class, and education all affect who votes
+	2. Voter id laws, Gerrymandering, access rules...
 5. What reasons do people give for not voting in the U.S.? How are these explanations related to larger structural forces?
+	1. Give vote
+		1. To participate in politics
+	2. Not give vote
+		1. Too busy
+		2. Not interested
+		3. did not like the candidates
+	3. These reasons reflected the *legal barriers, concentrated elite power, and mobilization gaps*
 6. How does disenfranchisement, registration policies, and voter identification requirements affect voting? Be specific.
+	1. 
 7. Describe the pluralist model and power elite models of political power. Which theoretical perspective would we associate each model with? Explain.
+	1. Plurist model want the people to participate in the policy making process. 
+	2. Elite model want only a small group of people to make all the policies.
+	3. Functionalism: *the pluralist picture of many groups sharing power, restrained by laws, policies, and the courts, fits this orderly, self-balancing view of politics*.
+	4. Conflict theory: 
 8. What are special interest groups? How do they affect elections?
+	1. 
 9. What role does the media play in government?
+	1. 
 10. What are opinion leaders? How do they affect our political views?
 11. Where do people get their political information from? How does this vary by age? What impact can this have on political beliefs and political actions/behaviors?
