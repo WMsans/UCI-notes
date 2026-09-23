@@ -1,0 +1,6 @@
+[project]
+name = "icsh32playground"
+version = "2026.9"
+dependencies = [
+    "coverage==7.16.1"
+]
