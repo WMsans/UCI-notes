@@ -1,0 +1,11 @@
+/mnt/windows/Users/Jeremy/Documents/UCI-notes/Fall 2026/ICS H32/Project 0A/bin/Debug/net10.0/Project 0A
+/mnt/windows/Users/Jeremy/Documents/UCI-notes/Fall 2026/ICS H32/Project 0A/bin/Debug/net10.0/Project 0A.dll
+/mnt/windows/Users/Jeremy/Documents/UCI-notes/Fall 2026/ICS H32/Project 0A/bin/Debug/net10.0/Project 0A.pdb
+/mnt/windows/Users/Jeremy/Documents/UCI-notes/Fall 2026/ICS H32/Project 0A/obj/Debug/net10.0/Project 0A.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/windows/Users/Jeremy/Documents/UCI-notes/Fall 2026/ICS H32/Project 0A/obj/Debug/net10.0/Project 0A.AssemblyInfoInputs.cache
+/mnt/windows/Users/Jeremy/Documents/UCI-notes/Fall 2026/ICS H32/Project 0A/obj/Debug/net10.0/Project 0A.AssemblyInfo.cs
+/mnt/windows/Users/Jeremy/Documents/UCI-notes/Fall 2026/ICS H32/Project 0A/obj/Debug/net10.0/Project 0A.csproj.CoreCompileInputs.cache
+/mnt/windows/Users/Jeremy/Documents/UCI-notes/Fall 2026/ICS H32/Project 0A/obj/Debug/net10.0/Project 0A.sourcelink.json
+/mnt/windows/Users/Jeremy/Documents/UCI-notes/Fall 2026/ICS H32/Project 0A/obj/Debug/net10.0/Project 0A.dll
+/mnt/windows/Users/Jeremy/Documents/UCI-notes/Fall 2026/ICS H32/Project 0A/obj/Debug/net10.0/refint/Project 0A.dll
+/mnt/windows/Users/Jeremy/Documents/UCI-notes/Fall 2026/ICS H32/Project 0A/obj/Debug/net10.0/Project 0A.pdb

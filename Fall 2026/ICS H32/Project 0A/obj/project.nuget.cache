@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4kWm/eKxR7Y=",
+  "success": true,
+  "projectFilePath": "/home/jeremy/Documents/UCI-notes/Fall 2026/ICS H32/Project 0A/Project 0A.csproj",
+  "expectedPackageFiles": [
+    "/home/jeremy/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
