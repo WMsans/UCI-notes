@@ -295,8 +295,23 @@
 	3. Functionalism: *the pluralist picture of many groups sharing power, restrained by laws, policies, and the courts, fits this orderly, self-balancing view of politics*.
 	4. Conflict theory: 
 8. What are special interest groups? How do they affect elections?
-	1. 
+	1. *organizations formed expressly to raise and spend money to influence elected officials and/or public opinion*
+	2. The affect elections by 
+		1. PAC
+		2. SuperPAC
+		3. Electioneering
+		4. Lobbying
+		5. Mass media
 9. What role does the media play in government?
-	1. 
+	1. Watchdog: the fourth branch of government
+	2. Driving political change
+	3. Campaigns and elections
 10. What are opinion leaders? How do they affect our political views?
+	1. *high-profile individuals whose interpretation of events influences the public*
+	2. opinion leaders supply the *interpretation of events*
 11. Where do people get their political information from? How does this vary by age? What impact can this have on political beliefs and political actions/behaviors?
+	1. Sources
+		1. Traditional media
+		2. Social media
+		3. News shows
+		4. Opinion leaders
