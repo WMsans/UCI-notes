@@ -55,7 +55,7 @@
 
 > 注意：作者明确表示，种族问题"无法在一章、甚至一本书中穷尽"，本章的目标是提供一套**种族与种族主义理论的纲要**。
 
-### 2. 什么是种族形成？什么是种族计划？
+### 2. 什么是种族形成？什么是种族投影？
 
 **种族形成（racial formation）**（原文斜体标出术语）：
 > We define *racial formation* as the sociohistorical process by which racial categories are created, inhabited, transformed, and destroyed.
