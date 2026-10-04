@@ -1,0 +1,6 @@
+[project]
+name = "icsh32project1"
+version = "2026.10"
+dependencies = [
+    "coverage==7.16.1"
+]
