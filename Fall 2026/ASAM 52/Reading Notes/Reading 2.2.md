@@ -286,3 +286,13 @@
 - **Ninh 2021 的一句话**："**Model minority is not a myth; it is an identity.**"它是 Gramsci 意义上的**常识**，试金石是**骄傲或羞耻**；"passing for model minority"是**矛盾修辞**——**占住被派定的位置反而成为越界**。
 - **Ninh 的三分法**：**scammers**（要好处，亚裔仅 11%）／**shammers**（不要好处，无现成脚本）／**passers**（第三类，才是全书要解释的）；**伪装者全是女性，诈骗者多为男性**。
 - **Ninh 的方法论警句**：读**离群值**，如 Le Guin 的 Omelas——**真相不在平均数里，而在那个被关在地窖的孩子身上**；研究例外不是算错误率，而是**暴露整条生产线**。
+
+# Test tips
+Debra M Bok
+
+Eric lee
+immigration
+
+historical event context of narrator coming to us
+
+laws that discriminated asian americans in early 20th century
