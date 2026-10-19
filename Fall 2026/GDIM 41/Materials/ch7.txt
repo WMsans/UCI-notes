@@ -1,0 +1,1851 @@
+                                            Narrative
+
+   Storytelling
+   Reception—The Player’s Experience
+   of a Story
+   A Brief History of Literary Theory
+   and Video Games
+
+                                                         BioShock (2007) is widely acclaimed for the
+                                                         richness and depth of its narrative
+
+
+
+
+Let us move away from the cultures created by games and their players, and
+back to the substance of the games themselves. This chapter explores the
+importance of narrative in video games. Critics, scholars, and parents alike
+have found many reasons to dislike and criticize video games. One argu-
+ment is that the medium cannot tell a story, let alone a good story. Much
+prominent video game theory centers on what many perceive as an incom-
+patibility between gaming and storytelling. This stands in sharp contrast,
+however, to the avid nine-year-old fan of Zelda, who can offer a step-by-step
+recitation of the adventures of Link as he travels through the land of Hyrule.
+So we are left with a basic question: are video games stories?
+
+  The rain has been falling like a dense spittle for weeks now, and as you
+  cruise above the metropolis in your spinner, the neon lights blur below
+  like artist’s pastels on a sidewalk. Back on the ground to pursue your mis-
+  sion, the babel of cityspeak washes around you. The last warm smile you
+  can remember came from a geisha grinning off the side of a stark high
+  rise, and that was about as genuine as one of those android snakes they’re
+  hawking down in Chinatown.1
+
+
+
+                                                                                                       201
+202   Narrative
+
+
+                  You are a blade runner. As you search for clues on your first mission, life is
+                  not kind in the city. The sound of rain accompanies your character’s foot-
+                  steps; you can nearly smell the food as you step into Howie Lee’s bar to ask
+                  the owner a few questions. Using your mouse, you click on the screen image
+                  of Howie and a menu pops up:
+
+                  •   LUCY PHOTO
+                  •   RUNCITER CLUES
+                  •   EMPLOYEE
+                  •   SMALL TALK
+                  •   DONE.
+
+                  These are your options. What will your next step be? You’ve just returned
+                  from the Runciter shop at the other side of L.A., where an animal mur-
+                  der has taken place, and there you have found a pair of chopsticks with the
+                  name of the bar you stand in now. Is this just coincidence or an important
+                  lead? As you contemplate this, you notice that the bulky employee behind
+                  the bar looks a bit like one of the suspects photographed by the shop’s
+                  security system. You use your mouse to click on “SMALL TALK,” and ask
+                  Howie Lee about his employee. He cannot tell you anything, so you click on
+                  “EMPLOYEE,” and the program guides you around to the back to talk to the
+                  guy yourself. He claims maybe to have seen the girl whose picture you are
+                  showing him, but then he suddenly throws a boiling pot of water toward you
+                  and runs away through the back door. Can you dodge the water? Will you
+                  follow him or go back to Howie?
+
+
+
+
+                  Figure 7.1 Blade Runner: Howie Lee’s bar and our character
+                                                                                  Narrative   203
+
+
+    If this were a movie, the main character would probably run after the
+suspect in the alley; you as the spectator would not give this interchange a
+second thought. He might even say something witty as he jumped beyond
+the arc of the boiling water. You would not need to click over and over again
+on a simplified list of commands. You would sit back and watch the action
+unfolding in front of you, pondering connections between the story’s ele-
+ments and wondering what might happen next. However, this is a video
+game, so nothing will happen unless you act. You need to decide whether
+to move or wait, choose conversation topics, shoot a suspect or not, arrest
+people or not, and you need always to look for the clues that might be hiding
+on the edges of the screen. No matter what happens, the outcome is one
+that you have helped create. You cannot play Blade Runner without paying
+attention to the story, as at any turn you wouldn’t know what to do next.
+Blade Runner is more than a story—it is a game—but we can’t deny that it is
+also a story. Video game genres (and individual video games) are so different
+from each other that it would be folly to suggest that a story-centered anal-
+ysis is always a good idea, but there are many cases in which it is, as we will
+demonstrate in this chapter.
+    Blade Runner belongs to the genre of adventure games, a direct descen-
+dant of text adventures (see Chapter 4), and arguably the genre in which
+story is most important. There are other subgenres in which stories are very
+significant, such as role-playing games or so-called action-adventure games.
+In the beginning of video game history, only text adventures could be said to
+integrate stories and games (even though many games used the frame of a
+plot as advertising); but nowadays there is no popular genre that doesn’t use
+some sort of explicit fictional framework. Early video games were simply
+too abstract for plot to be a central concern—we can only imagine the tri-
+angular ship of Asteroids being involved in so many plot-heavy adventures.
+    But as computing processing power grew, the industry tended toward the
+production of more representationally sophisticated games. Good graphics
+have translated into painstakingly detailed and sometimes beautiful worlds,
+while better AIs allow for more advanced responses to players’ actions,
+including more interesting nonplayer characters, better simulations, and
+the possibility of handling thousands of players at the same time in huge
+multiplayer worlds—all of these advances make the game world seem more
+alive, and each, in turn, changes the possibilities for storytelling.
+    Narrative is so pervasive that there are video games based on nothing
+more than a tangential connection to stories in other media; the most pop-
+ular of these are games directly created from other cultural products, such
+as films. These games can sometimes have a narrative element, but often the
+film ends up being a thematic excuse for a platform or action game. Con-
+sider, for example, Star Wars Episode I: Racer, developed in connection with
+the movie The Phantom Menace. The game draws on the fictional universe of
+the Star Wars series but is based on only one scene from The Phantom Men-
+ace. As a typical racer game, it contains almost no story, but it nevertheless
+prompts the player to “take the controls as Jedi-to-be Anakin Skywalker.”2
+204   Narrative
+
+
+                  There is only a suggestion that the player might frame her actions within the
+                  game as part of this specific fictional universe; the act of playing itself will
+                  not reproduce the sequence of events as in the movie but allows for many
+                  other combinations.
+                     Even in genres where stories are not part of the gameplay at all, such as
+                  strategy or simulation, fictional worlds prompt players to imagine that their
+                  actions take place within a meaningful narrative frame. For example, Micro-
+                  soft’s successful Age of Empires is a strategy game based on the management
+                  of resources in the classic setting of “civilization-building,” in which your
+                  tribe has to develop from nothing to an empire, and compete with others
+                  for world domination. The theme of advancing your empire gives a reason
+                  for abstract resource management and provides the frame for the game’s
+                  graphics, settings, and action. Themes and plots—however vague—enable
+                  players to figure out game interfaces and the rules of the game: what actions
+                  are available to me as a player? And that is why most games use them. Age
+                  of Empires has a final goal: advance your culture and dominate all others,
+                  but even video games without any goals, such as the toy-like The Sims, coat
+                  the simulation with a fictional varnish. In the promotional materials for the
+                  game, you are invited to play God in an adult version of a doll’s house.3
+
+                     Create simulated people and build their homes, then help your Sims pur-
+                     sue careers, earn money, make friends, and find romance—or totally mess
+                     up their lives. Test your “people skills” as you deal with family, friends,
+                     careers, and chaos! There is no right or wrong way to play the game.4
+
+                  Clearly, stories are everywhere. And we will use the general term “narrative
+                  video games” to refer to any games in which stories play a significant role.
+                  But to avoid the confusion that has haunted many discussions about the
+                  role of narrative in games, let us define our concepts.5 So far, we have been
+                  using the words “story,” “narrative,” “fictional world,” and “fiction” in what
+                  seems like an interchangeable manner, something that would no doubt hor-
+                  rify many literary scholars.
+                     “Narrative” can be defined as a succession of events. Its basic components
+                  are the chronological order of the events themselves (story), their verbal or
+                  visual representation (text), and the act of telling or writing (narration).6 For
+                  example, the novel Dracula tells us a story of how an ancient vampire comes
+                  to England, wreaks havoc in a small community, and is finally destroyed.
+                  This story—which is not always clearly or chronologically told—is found in
+                  the text, written by Bram Stoker. Bram Stoker (whom we cannot see in the
+                  text) creates the narration, both through his own descriptions and through
+                  the voices of the characters, who “speak” through their letters and other
+                  writings.
+                     Technically “story” and “plot” are “ingredients” of narrative, understood
+                  as a succession of events. However, in this chapter, “story” is more of a
+                  loose term, referring to fictional worlds projected by the games, unless it is
+                  described as “linear story.” “Plots” or “narratives” are a scripted succession
+                                                                                      Narrative   205
+
+
+of events that the player has to perform in a specific order. (In Blade Runner
+you have to find the chopsticks before you can go to Howie Lee’s bar, for
+example.) The events that make up the whole narrative or plot of this kind of
+game usually allow minimal flexibility in the order of completion.
+    The other components of narrative—text and narration—are not as
+essential to our discussion of video games, mainly because these games lack
+a static text. No matter how many times a book is read, by no matter how
+many different people, the text is always the same; but in a video game, no
+two game sessions will be exactly the same. As for narration, the nonfixed
+text of video games makes it difficult for them to have a single telling; the
+exception proves the rule here, as there is a very short list of games, such
+as Prince of Persia: Sands of Time or Max Payne, that feature a voice-over
+narration of the type you might have in a movie, which frames the player’s
+actions within a narrative framework that has already been fixed in advance.
+But this is a trick, of course, because the voice-over only concerns itself with
+the main plotlines of the story, and it is still possible to have different playing
+sessions in which minor things are done slightly differently.
+    As we can see, these terms are concerned with the structural descrip-
+tion of a narrative. We should also mention the broader terms “fiction” and
+“fictional worlds.” “Fiction” is not an uncontested term, but we can make a
+pragmatic distinction between “fiction” as events that have not occurred in
+“real life” (the basis for novels, films), and “nonfiction” as documentation of
+events that have occurred (as seen in news items, autobiographies, and film
+documentaries). Nearly all video game stories are fictional, although there
+are also games, such as Battlefield 1942, based on real World War II battles,
+which simulate historical events.
+    A fictional world is an imaginary construct created by the descriptions
+of a text. Readers—and viewers, and players—infer that there is a make-­
+believe universe in which the events they are reading about (or viewing or
+performing) make sense. For example, from reading the tale of Little Red
+Riding Hood we can imagine a pre-modern world where people lived close
+to forests, had tight family relations, and where animals could talk. From
+our own experience, we know that grandmothers and granddaughters are
+usually fond of each other, and that little girls shouldn’t talk to strangers.
+This is much less detailed than, say, the fictional world that J.R.R. Tolkien
+creates in The Lord of the Rings, where he invents languages and carefully
+describes continents, races, animals, plants, and an entire mythology.
+    However, these two narratives can affect us similarly as readers; the point
+is that we do not need much descriptive prompting in order to ascertain
+which kinds of events make sense in a concrete fictional world. As we read,
+or view, or play, we unconsciously and immediately apply what we know
+from our own world if it is a realistic setting, and from other fictional worlds
+if it is not. For example, the player of Half-Life assumes the role of a scientist
+trapped in a secret research facility, where an experiment has gone horribly
+wrong and brought evil aliens into our world. The player quickly recognizes
+the science fiction-conspiracy theme (from novels or Hollywood movies)
+206   Narrative
+
+
+                  and can almost immediately guess the plot to come: the government will try
+                  to eliminate him and all other surviving witnesses. Half-Life is full of cues
+                  of all kinds: visual, in the dialogues, and in the kinds of actions that we can
+                  (and can’t) perform with our character. The fictional world is immediately
+                  recognizable, and thus believable, because it is similar to many stories we
+                  have seen and read before.
+                     Most games have a fictional world, however minimal, and the success
+                  of this imaginary creation nearly always influences the player’s enjoy-
+                  ment of the game. Star Wars Episode I: Racer, as we saw earlier, wouldn’t
+                  be as engaging if instead of pods and the characters from the Phantom
+                  Menace movie it featured cars and an unknown set of colored animals as
+                  characters. With the visual clues from the movie, the player can imagine
+                  her actions as loosely connected to a broader Star Wars story outside
+                  the game.
+                     Narratives are made of events, and usually contain settings and charac-
+                  ters, but both of these ingredients can appear on their own, without being
+                  tied to a specific narrative, so that players can imagine how setting or char-
+                  acters fit into the fictional world, relate them to an external story (like Star
+                  Wars), or simply use them in order narratively to thematize their enjoyment
+                  of the game (in Super Monkey Ball, for example).
+                     We should point out that it is easy to confuse fictional worlds with nar-
+                  ratives. This is because one of the ways we understand a narrative is by fill-
+                  ing in the gaps: we postulate connections between events, we interpret the
+                  motives of characters, and so on. In other words, we project an imaginary
+                  world. In the same confusing way, when video game designers talk about
+                  narrative, they usually refer to the introduction of elements that prompt
+                  the player into imagining fictional worlds—which could be anything from
+                  excellent characters to detailed environments. Many designers abhor the
+                  scripting of programmed sequences of events in games, which would actu-
+                  ally form a narrative in the literary sense.
+                     Much of the scholarly discussion around narrative and video games deals
+                  with the perceived difficulty of combining a playing experience that feels
+                  free with the necessary constraints of a narrative structure. In other words,
+                  the problem of letting players act freely while ensuring that their actions
+                  produce an interesting story.
+                     This chapter will introduce some of the concepts that are important
+                  when looking at video games from a narrative perspective—as regards both
+                  narrative as a sequence of events and the creation of fictional worlds—in the
+                  section called “Storytelling.” This section also argues that story and game-
+                  play are integrated in the playing experience, as we will see from the analysis
+                  of a particular game. The second part of the chapter, “A Brief History of Lit-
+                  erary Theory and Video Games,” provides an overview of major theoretical
+                  issues in discussion in the video game narrative community. This chapter
+                  should give you a fairly extensive idea of the work that has been done in the
+                  area, as well as hopefully demonstrating that a consideration of narrative is
+                  useful for understanding video games.
+                                                                                           Narrative     207
+
+
+STORYTELLING
+We will here introduce interesting elements of narrative that are relevant to
+video games. We have divided the concept of storytelling into three broad
+categories, which can be thought of as the “who” and the “what,” and the
+“how/why” of a narrative. The categories are “the fictional world,” which
+includes the story’s settings and actors; the “mechanics” of the narrative, or
+how the action of the story is organized; and the reception, or the way in          Reception (studies): In
+which players experience the story and figure out the causality.                    literature, the study of a
+                                                                                    reader’s understanding
+                                                                                    of the text. In video
+The Fictional World: Settings and Actors                                            games, the study of the
+                                                                                    player’s experience of
+Most video games are given a setting that not only helps the player frame           playing a game.
+her actions but is also engaging enough that it has some value in itself.
+Players of Myst marveled at the beautiful landscapes and eerie atmosphere
+of the deserted islands. Fans of The Last Express no doubt still remember
+the animated life of the train where the game takes place, full of charac-
+ters that go on about their business without regard for the protagonist.
+And those players steeped in Counter-Strike, where enemies can appear in
+any doorway, and where danger lurks around every corner, may even find
+themselves fantasizing about combat tactics as they walk down corridors
+in real life. The list of fictional worlds is endless—from the mysterious
+building where the old Donkey Kong takes place (full of jumps and stairs
+and barrels and dangers for our little Mario) to the terrifying village of
+Silent Hill—and video games have relied upon these imagined spaces from
+their inception.
+   But what exactly is the relationship between fictional game worlds and
+the game experience? Lisbeth Klastrup describes the differences between
+game worlds and social worlds, and argues that a game world’s objects and
+space are all organized around the act of play.7 Many of us have tried to
+open doors and windows that would not move in Blade Runner, or tried to
+climb the trees of EverQuest; the fictional world of games is like the stage
+of a play—it is meant for action, but many of the elements are there to be
+seen and not used. Only those objects directly related to gameplay will be
+“usable,” although quite a few contemporary games with advanced physics
+offer the possibility of interacting with objects unrelated to the story. Games
+indicate which objects are relevant in different ways. In Blade Runner, for
+example, the cursor changes color when the player moves it over a usable
+object. Others simply try to make as many objects “alive” as possible, in sim-
+ulations that provide the illusion of a virtual reality. In Grand Theft Auto V,
+we move around in a city where all cars can be stolen, all people beaten up,
+and a lot of other things done that strictly speaking have nothing to do with
+the missions we are given. The city, it seems, lives even without us. Although
+this is, of course, an illusion, as we can only interact with the different kinds
+of objects in one predetermined way: we can beat people up but not kiss
+them, for example. Designers have divided opinions as to what kind of world
+208   Narrative
+
+
+                  works best, but players’ expectations are likely molded by a game’s genre: we
+                  are more likely to try and explore every nook and cranny of an adventure
+                  game as we look for clues, and less likely to care about the surroundings in
+                  an action game.
+                      The most important component of a game world is the gamespace,8
+                  understood as the setting for the gameplay. Gamespaces are not realistic
+                  but reductive: they reproduce some features of the real world but create
+                  their own rules in order to facilitate gameplay (and to reduce the processing
+                  power required by a computer to run the game). For example, in Myst (see
+                  Chapter 4), the world around us seems open, but in actuality we are forced
+                  to follow a very specific route through the landscape, and can’t stray off the
+                  path or explore.
+                      Espen Aarseth has looked at different kinds of spatial representation in
+                  video game history: from two-dimensional to three-dimensional, from open
+                  landscapes to landscapes where you can only move in a single direction, and
+                  from indoor corridors to space travel and everything in between. He argues
+                  that spatial representation is the most innovative aspect of video games.
+                  Following on from his main point—that the spaces of video games are fun-
+                  damentally different from real spaces—he makes an interesting distinction
+                  between space in single- and multiplayer games. Single-player games, as in
+                  the case of Myst, for example, often have landscapes that seem to be open
+                  but are actually very restrictive. This is necessary because the game orches-
+                  trates the movement of the player in one direction, toward a final goal. Mul-
+                  tiplayer landscapes, however, have to be open so that all players can move
+                  freely, and so that no player starts with an advantage. The challenge in these
+                  games is not the landscape (as it would be in a platform game) but the other
+                  players.9
+                      Gordon Calleja has examined the importance of gamespace as “a power-
+                  ful factor in engaging players and giving them the sense that they are inhab-
+                  iting a place rather than merely perceiving a representation of space.”10
+                      One of the most contested issues in relation to the fictional world
+                  of games has been cut-scenes, cinematic sequences used to relay infor-
+                  mation to the player. Many games with a sophisticated story use this
+                  technique to situate player actions in a fictional world that can thus be
+                  described with great authorial control. Play is interrupted and we watch
+                  a “film” where the game characters interact or something happens that is
+                  out of our control. Cut-scenes are used by designers to create narrative
+                  in a variety of ways.
+                      First, they introduce a central narrative tension. Many arcade games used
+                  animated cut-scenes to introduce the central conflict of the game. These
+                  scenes were brief and served to give the player a chance to get ready for the
+                  actual gameplay. As the need to get the player through the game quickly fell
+                  away, introductory cut-scenes grew longer, and today’s games often have
+                  extended movie sequences that introduce characters, and set the scene and
+                  the mood.
+                                                                                        Narrative   209
+
+
+
+
+Figure 7.2 New Zealand Story (1989) cut-scene, where the evil walrus kidnaps the kiwi
+family but one bird escapes
+
+
+    Second, cut-scenes shape the narrative in a certain direction. They func-
+tion to ensure that the game protagonist makes certain choices. The player
+is stripped of his or her influence and the narrative is moved along. In the
+game Gabriel Knight III, for instance, Gabriel walks through a door, trig-
+gering a cut-scene in which the player has no control over Gabriel’s actions.
+    Third, cut-scenes compensate for missing game narrative. Many games
+mark the passing of time within the game using cut-scenes. Sometimes these
+scenes illustrate a journey; for instance, when the player of Prince of Persia:
+Sands of Time has performed a certain series of tasks the game jumps to a
+longish cut-scene showing the consequences of the prince having procured
+the Dagger of Time.
+    Fourth, they associate the game with contemporary cinema aesthetics as
+in Max Payne II, for example to build a richer game experience through an
+emotional tie.
+    Fifth, cut-scenes provide the player with information. Some modern
+games have integrated cut-scenes much more closely with the gameplay
+than was previously the norm. Here the cinematics are used to convey use-
+ful information, often to serve as a kind of establishing shot describing the
+layout of a location. As the protagonist enters a new area, the “camera” may
+swoop through the scene showing the placement of enemies and objects.
+210   Narrative
+
+
+
+
+                  Figure 7.3 Max Payne II (2003) cut-scene, where the player is emotionally tied to the
+                  main character
+
+
+                      The rationale for using cut-scenes in games is disputed. Some hold it
+                  to be a case of cinema envy; some argue the technique compensates for
+                  game design incompetence, so that the fictional worlds are shown passively
+                  instead of letting the player discover them through gameplay.11
+                      Others, however, see the attack on cut-scenes as a radical or purist
+                  attempt to (over)emphasize what is special about games.12 In his paper “In
+                  Defense of Cutscenes,” Rune Klevjer argues that cut-scenes are a manifesta-
+                  tion of the author’s voice in the creation of the diegetic world, understood
+                  as “a fictional world, created by discourse.”13 The importance of cut-scenes
+                  is not only retrospective; as we have seen, it also frames the world in which
+                  play takes place:
+
+                     The cut-scene may indeed be a narrative of re-telling but more impor-
+                     tantly: it is a narrative of pre-telling, paving the way for the mimetic
+                     event, making it a part of a narrative act, which does not take place after,
+                     but before the event. The cut-scene casts its meanings forward, strength-
+                     ening the diegetic, rhetorical dimensions of the event to come.14
+
+                  Apart from the settings manifested in the gamespaces and conveyed by cut-
+                  scenes, the other important ingredient when building fictional worlds is the
+                  characters that will populate them. We have talked about “actors” before,
+                  because many of these characters are capable of action, and indeed of inter-
+                  acting with the player. If we take a dictionary definition, characters are “the
+                  people that the film, book, or play is about.”15
+                                                                                Narrative   211
+
+
+    It seems that games (when they have characters) would participate in
+both modes—the narrative and the dramatic: sometimes we read and imag-
+ine worlds (as in adventure games), sometimes we view worlds unfolding (as
+in cut-scenes in adventure games), but the revolution offered by video games
+is that we can play some characters ourselves, and that other characters will
+react to us and do things that we can respond to. Characters in games are
+not just the people that the game is about but also the people who are mak-
+ing action happen and thus producing different stories. Mark J. P. Wolf con-
+siders characters to be the driving force of narrative development in video
+games. He proposes that they be categorized by their function: playing char-
+acters, computer-controlled characters and computer-­controlled characters
+with no action in the game (helpers, hinderers, beneficiaries, neutral char-
+acters, or narrators).16
+    We propose our own typology of characters in video games, organized
+according to the extent to which players can interact with them:
+
+• Stage characters: Just part of the scenario, moving around but with no
+  personality or function in the game. We cannot interact with them in any
+  way.
+• Functional characters: Like stage characters but with a general function
+  in the game; for example, in Grand Theft Auto III we can attack or be
+  attacked by people walking past, and in Vampire: The Masquerade—
+  Redemption, our vampire character once in a while needs to drink blood
+  from anonymous mortals.
+• Cast characters: Characters with a particular function in the game
+  related to the story. They have personality to different degrees: a min-
+  imal amount in the case of the Blade Runner bartender we have to
+  interrogate, for example, and a large amount in the case of our friend—
+  later enemy—Sephiroth in Final Fantasy VII. Such characters have
+  their own agendas, and can be considered in Proppian terms,17 as we
+  will explain.
+• Player characters: The character controlled by the player (except in cut-
+  scenes); we can usually control his actions but his motivations and mis-
+  sions are decided by the story.
+
+Even though all characters can be memorable in their own way, the player
+character is certainly the crucial one for the player experience. Designer
+Toby Gard has proposed a typology of player characters, with three cate-
+gories according to how easy it is for players to identify with them: from
+avatars to actors, with role-playing game characters occupying a middle
+position:
+
+  Avatars are a non-intrusive representation of ourselves, actors are always
+  part of a story (or have a story, albeit minimal sometimes), and roleplay-
+  ing characters have very different abilities that we can raise according to
+  our performance.18
+212   Narrative
+
+
+                  Typically, an avatar has no name and cannot be seen, as the game view is
+                  first person, so that the player merges with the character, as in Unreal, for
+                  example. Actors can usually be seen in third-person view and have their
+                  own biography integrated with the game story, for instance, Lara Croft of
+                  Tomb Raider. Role-playing characters are “made” by players, who choose
+                  their name, appearance, and abilities, and can often also choose between the
+                  first- and third-person views. This last category should in theory offer more
+                  room for identification as the player constructs the identity of her own char-
+                  acter in play. However, in practice it is hard to really role-play and develop
+                  a character within the context of MMORPGs, as MacCallum-Stewart and
+                  Parsler have demonstrated.19
+                      Tosca has added a fourth category: “iconic” characters. These are char-
+                  acters, such as the Super Monkey Ball monkeys, who are empty of person-
+                  ality but allow for the collective channeling of stereotyped expressions
+                  in the game performance, such as happiness in victory or dismay when
+                  losing.20
+                      The importance of being able to identify with a game’s characters is
+                  something of a recurrent theme in video game design manuals; there is a
+                  belief that the stronger the personality of the character, the easier it is for
+                  a player to feel alienated from it.21 The implication—that designers should
+                  create characters with only vague attributes—is the opposite of a typical
+                  modern literary perspective, where characters are praised for their vivid
+                  uniqueness. The fear of alienation is also contradicted by some very pop-
+                  ular video game characters, such as Lara Croft, who have very distinctive
+                  personalities.
+                      The last point we will consider in relation to characters is that of the
+                  creation of better (meaning more active) nonplayer characters, a problem
+                  directly related to the development of artificial intelligence22 and one that
+                  has worried many developers for a long time. Brenda Laurel is in fact opti-
+                  mistic, and proposes simplification rather than more complexity:
+
+                     the fact is that, thanks to well-internalized dramatic convention, we can
+                     enjoy (and believe in) even one-dimensional dramatic characters. In fact,
+                     when a minor dramatic character possesses only one or two actionable
+                     traits, audience members will impute elaborate histories and motivations
+                     as needed to make it believable.23
+
+                  Laurel builds on the work of Meehan,24 Lebowitz,25 and others who have
+                  established guidelines to create “functional and entertaining characters
+                  from a small cluster of well-conceived traits that are realized as goal-­
+                  formulating and problem-solving styles.”26 Despite constant technological
+                  advancements and more and more complex games, good characters do not
+                  necessarily have to be lifelike. The techniques mentioned above can allow
+                  for the creation of a very interesting array of characters of all categories
+                  (stage, functional, cast, and player characters). And of course there is the
+                  fascinating possibility of interacting with the characters of fellow gamers in
+                                                                                          Narrative    213
+
+
+multiplayer titles, an activity that has not been thoroughly explored in the
+research.
+
+
+Mechanics: Organizing Narrative Action
+We now turn to an examination of what constitutes narrative action in
+video games, and ways of implementing it. A central preoccupation of
+game designers is the problem of linearity—how to get a player to move
+through a game in one particular way, at the same time ensuring that it
+is interesting. As the narrative possibilities of video games have become
+more complex, so too has the debate over the mechanics of the nar-
+rative. Designers now generally accept that forcing the player through
+the fictional world does not make a good video game, no matter how
+compelling the narrative. But if you don’t force your player to do things,
+then how do you create a plot? This is the central question for narrative
+mechanics.
+    The basic concept designers use to organize narrative action is “branch-
+ing.” We can define branching as the existence of multiple paths in a narra-
+tion. Branching leads to the problem of managing the exponential growth
+of nodes (or individual text spaces) in a narrative. This has been one of the
+most debated issues among hypertext theorists since the early 1990s. Faced
+with the same problems, video game designers have generally allowed for
+moderate branching while implementing plot bottlenecks, through which
+all players have to pass in order for the story to advance. For example, in
+Gabriel Knight: Sins of the Father, the player has to visit a certain number
+of locations in order to finish each day; she can do it in different order, but
+in the end, the day will finish in the same way. Jonas Heide Smith has illus-
+trated the differences between the standard narrative progression of linear
+fiction (including novels and films) and that of interactive fiction and nar-
+rative games.
+    As illustrated in Figure 7.4, traditional fiction goes only one way—toward
+a resolution—and does not allow for interruptions or cuts. A traditional
+narration works because it is a con-
+tinuous line that plays with a reader’s
+(or viewer’s) expectations and orches-
+trates their emotional trip from
+beginning to end, controlling import-
+ant points such as the point of no
+return and the climax. If we applied
+the same model to a video game, we
+could not allow the player to do any- Teaser                    Point of no             Climax
+                                                                  return
+thing, as any deviation or delay would                                       Conflict            Resolution
+ruin our carefully planned emotional                                        escalation
+                                                         Elaboration
+curve. Imagine the player dying in the
+middle of the narrative! But a game Figure 7.4 A model of classical linear fiction that shows how the story
+with such a narrative model would is built up in stages
+214   Narrative
+
+
+                                                                       not be much of a game, which is why
+ CHAPTER 1          CHAPTER 2             CHAPTER 3                    designers opt for another model (see
+                                                              Ending A
+                                                                       Figure 7.5).
+                                                                          In this kind of fiction—typical
+                                                              Ending B
+                                                                       of adventure and action-­     adventure
+                                                                       games—there is no continuous
+                                                              Ending n
+                                                                       curve. The player has to solve puz-
+                                                                       zles (or find objects, win battles, or
+                                                                       talk to nonplayer characters) within
+Figure 7.5 A model of interactive fiction that shows the branching of
+the story
+                                                                       each chapter; usually there is some
+                                                                       flexibility as to the order of the tasks,
+                                                                       offering a small sense of freedom.
+                             In the absence of an emotional curve, designers rely on the emotional
+                             ­satisfaction—the “unambiguous sense of victory”—that solving the puzzles
+                             gives the player.27,28 But ultimately the player is solving a story instead of
+                              actively creating it. The successive chapters work in a cumulative way so that
+                              at the end of each a climax or resolution is provided, usually preceded by a
+                              difficult “boss fight” to give a greater sense of achievement. As mentioned
+                              in Chapter 5 on video game aesthetics, Jesper Juul calls these “progression”
+                              games, because the player has to complete a certain sequence of actions in
+                              order to get to the end—or endings, as sometimes these games allow for
+                              different resolutions according to the player’s actions.
+                                  Aside from progression games, the other dominant narrative ­structure—
+                              as defined by Juul—is “emergence” games. This type of game follows noth-
+                              ing like the classical linear structure; instead of a prestructured sequence,
+                              there is a more active artificial intelligence (AI), in which each object has
+                              behaviors. For example, in a progression game, the dragon will always
+                              attack the player when she steps into the cave, but in an emergence game
+                              this might depend on how the player behaves toward the dragon, which
+                              is a more “active” object with a few possible different responses. For both
+                              Juul and Smith, an emergent structure is preferable, as it gives players
+                              a sense of freedom. Smith calls it “deistic narration,” a kind of object-­
+                              oriented narration in which game designers become architects of space
+                              and situations:
+
+                              An example: A virtual living room is designed, the avatar is placed on a
+                              couch, and a dragon is placed under the couch. What we then have is not
+                              a story but a story is what we may get. What we have is a starting position
+                              with narrative potential but without direction.29
+
+                           The key to successful mechanics is to make players feel that they are con-
+                           tributing to creating a plot; the most successful narrative experiences hap-
+                           pen in games where our actions have noticeable plot consequences.
+                              Beneath the narrative structure of an entire game, designers must also
+                           manage the smaller sequences of events that make up the arc of a game’s
+                           plot. To explore these building blocks of narrative, some game theorists
+                                                                                    Narrative   215
+
+
+have investigated quests.30 Quests are small “missions” that players must
+perform; they structure a game’s action and create opportunities for
+storytelling.
+   From the designer’s point of view, a quest is a set of parameters in the
+game world (making use of the game’s rules and gameplay) that creates a
+challenge for the player. From the player’s point of view, a quest is a set of
+specific instructions for action; these can be a general goal (overthrow the
+evil king) or extremely precise (take this bucket to the well, fill it up, and
+bring it back to me). After the quest has been completed, it can be narrated
+as a story. Quests are a way of structuring the events that constitute a game,
+as they manifest causality at two levels. On a semantic level, quests demon-
+strate how and why a player’s actions are connected to each other and to the
+end of the game’s story; on a structural level, quests embody the cause-and-
+effect relationship between a plan of action and its results, or between the
+interaction of objects and events. These two levels can be perceived by both
+the player and the designer, and if the quests are well built, they enhance a
+player’s emotional engagement. Ideally, quests are the glue that holds world,
+rules, and themes together in a meaningful way.
+   Most games with a narrative component employ quests—not only
+adventure games but also role-playing games or multiplayer role-playing
+games (where the massive presence of player characters does not leave a lot
+of room for designer-controlled story production). In World of Warcraft, for
+example, at any given time of day or night, thousands of players around the
+globe are running around their fictional worlds, engrossed in their particu-
+lar quests: find a book, kill a monster, take a letter to another city. In adven-
+ture games, quests are often defined in terms of puzzles or enigmas that
+have to be solved by collecting objects, using information, and rearranging
+machinery.
+   Game designers should ideally avoid quests that are meaningless for the
+player. The two levels on which quests operate (the semantic and the struc-
+tural, as discussed) are also the two levels on which quests can fail. Quests
+generally do not work because they fail to integrate the storytelling elements
+in a particular game: if quests feel disconnected from the plot, the game
+world, or our characters, chances are that the bridging of the semantic and
+structural levels has not succeeded. There seems to be a fairly fixed and
+small number of typical quests that many games repeat (the exchange, the
+breach of contract, the discovery of the traitor, and saving the kingdom are
+among the most popular), and we might ask ourselves if it is desirable to
+explore new lands and devise new versions of these quests or search for
+entirely different ones. As Jill Walker suggests in her analysis of World of
+Warcraft quests,31 some of the classic quests, such as taking a letter from
+one character to another, can feel more significant if they reveal relation-
+ships between the nonplaying characters that populate the world of the
+game. In other words, designers need not invest a lot of effort in making
+player characters a part of the quest stories—a narrative can also be richer if
+the static world is better fleshed out than in most current games. This is also
+216   Narrative
+
+
+                  Jeff Howard’s point in his Quests: Design, Theory and History in Games and
+                  Narratives.32 More recently, Tanya Krzywinska has looked at the episodic
+                  narrative elements of quest games through the repetition of certain patterns
+                  (“beats”), using World of Warcraft as an example. Here, quests are seen as
+                  micronarratives set within an overarching multithreaded narration.33 These
+                  authors have taken the analysis of quests to a level of greater sophistication.
+                     Marie-Laure Ryan34 has over the years extensively worked with narrative
+                  structures, and has mapped out nine fundamental narrative structures that
+                  are described below:
+
+                  1. The complete graph structure: In this narrative structure, all the paths are
+                     bidirectional and all nodes are linked to each other. The reader has total
+                     freedom to navigate. It is almost impossible to guarantee a coherent nar-
+                     rative as the reader has full control of what to do.
+                  2. The network structure: In this narrative structure, paths can be either
+                     unidirectional or bidirectional. This is the standard structure of literary
+                     hypertexts. The reader’s navigation is neither entirely free nor limited to
+                     one course.
+                  3. The tree structure: In this narrative structure, all paths are unidirectional,
+                     and progression produces a plot. The reader’s progression is carefully
+                     controlled, so any choice results in a well-formed story. This structure
+                     is sometimes used in adventure games, although the maze structure
+                     explained later is more common.
+                  4. The vector with side branches: In this narrative structure, there is one main
+                     story that progresses chronologically. However, the reader is allowed or
+                     even encouraged to make small detours, which in video games are often
+                     referred to as “side quests.” The structure resembles that of sightseeing
+                     with a guide.
+                  5. The maze structure: This narrative is the one mostly found in adventure
+                     games, where the players have to find the right path to successfully com-
+                     plete the game. There are more ways to reach the end, but you will always
+                     get to the same end. The story will be quite coherent as the game’s design
+                     sets down blockers between each chapter, ensuring that the players go
+                     through the key nodes to progress the story appropriately.
+                  6. The directed network: This narrative structure is more chaotic, but strong
+                     attempts are made constantly to maintain some coherence as the player
+                     progresses. The player has some freedom to connect the experiences of
+                     the journey in different ways, forming a somewhat unique narrative. The
+                     player feels more empowered as the decisions made during the story
+                     influence what happens in the later narrative.
+                  7. The hidden story structure: This narrative structure is more complex, as
+                     it operates with a fixed narrative that the players slowly uncover as they
+                     progress through the game. The game is a reconstruction of a fixed nar-
+                     rative that develops into a new narrative. This worked very well in the
+                     first Max Payne game, where you slowly uncover what happened to the
+                     protagonist’s family.
+                                                                                                        Narrative       217
+
+
+8. The braided plot: This narrative structure allows the player to experience
+   different perspectives on an unfolding narrative by changing the protag-
+   onist and location. This can be by playing characters with different abili-
+   ties or access to special knowledge.
+9. Action space, epic wandering, and story-world: In this narrative struc-
+   ture the player can interact on the macro level to choose different inci-
+   dents (micro-level). Once the player is on the micro-level the narrative
+   is locked down, and a narrative plays out with limited agency for the
+   player.
+
+   Not many progression games manage to give players a sense of free-
+dom, but there are some notable attempts, such as Blade Runner, men-
+tioned previously. In this game, there are almost no puzzles; instead the
+player goes through different scenarios in search of clues. The player has
+a variety of options each time he confronts a replicant (the game’s ini-
+tial villains). Arresting, killing, or letting them go free prompts complex
+responses; ultimately, the player’s actions decide if she turns out to be a
+replicant ­herself—one of the most interesting questions raised by the film
+the game is based on.
+
+
+
+
+    1). Complete graph structure                2). Network structure                   3). Tree structure
+
+
+
+
+   4). Vector with side branches                5). Maze structure                     6). Directed network
+
+
+
+
+    7). Hidden story structure               8). Braided plot            9). Action space, epic wandering and story-world
+
+Figure 7.6 A variety of different interactive narratives and how they can fold into each other. (Source: Ryan, 2001b,
+pp. 247–255, figures 4–11)
+218   Narrative
+
+
+                  Reception—The Player’s Experience of a Story
+                  “Reader response criticism” or “reception theory” is a branch of literary the-
+                  ory that focuses on the experience of readers as they interact with texts, and
+                  tries to articulate the nature of the reading activity. It is a useful perspec-
+                  tive from which to study players’ experiences with narrative video games.
+                  In what follows, we will argue that a reception theory-based analysis can
+                  explain the way that narrative and gameplay together determine the player
+                  experience in games that make use of stories. This approach can also answer
+                  the question: do we need to pay attention to the story in order to play these
+                  kinds of games? A close analysis of the game Resident Evil Code: Veronica X35
+                  will serve to introduce these ideas.
+                      Resident Evil Code: Veronica X is the fourth major title in the very pop-
+                  ular Resident Evil series. It is somewhere between the adventure genre and
+                  the “survival horror” subgenre. Along with other titles like Silent Hill and
+                  Alone in the Dark that fit this hybrid category, the player controls a charac-
+                  ter who has to get out of some enclosed place, solving puzzles and destroy-
+                  ing horrific monsters along the way.
+                      The story in Resident Evil Code: Veronica X is about a young woman,
+                  Claire Redfield, who travels to Europe to find her brother, Chris. Both sib-
+                  lings are survivors of previous games, and enemies of the evil “Umbrella
+                  Corporation,” which experiments with biochemical viruses that turn peo-
+                  ple into zombies and monsters. At the game’s outset, Claire is captured by
+                  the company and sent to a prison on a monster-infested island, from which
+                  she has to escape. Throughout the game, the player alternates between con-
+                  trolling three characters and uncovers yet more of the evil corporation’s
+                  dark secrets.
+                      Let’s begin our analysis with an initial concept, the “literary repertoire,”
+                  because it will help us understand how readers (in this case, players) can
+                  start interpreting a story successfully—that is, how they get into it. The
+                  literary repertoire is described by Wolfgang Iser as “the familiar territory
+                  within the text,”36 which can include anything that the reader might already
+                  know—references to earlier works, social norms, and historical events. This
+                  repertoire brings context into the discussion without opening the door to
+                  excessively subjective interpretations or psychological particularities: the
+                  reader can only actualize37 what is already in the text. Understanding the
+                  repertoire is a matter of competence, and it can affect both content (for
+                  example, recognizing a quote) or form (being able to interpret the conven-
+                  tions of the horror genre). In the case of Resident Evil Code: Veronica X, the
+                  repertoire includes (among other things):
+
+                  • Knowledge of the survival horror genre of video games: This includes basic
+                    premises such as kill all monsters; pick up all objects to solve puzzles;
+                    there is a boss, or monster, that is especially difficult to kill at the end of
+                    each level or area.
+                                                                                  Narrative   219
+
+
+• Knowledge of the horror B-movies that inspired this kind of game: These
+  movies place the game in the right cultural context but also offer use-
+  ful tips; horror devotees all know, for example, that zombies move really
+  slowly, so you can probably dodge them instead of always fighting them
+  (something that will prove particularly useful, since it is easy to run out
+  of ammunition).
+• Knowledge of how to cheat since the player can become stuck, which stops
+  the game: Savvy players will know to consult a “walkthrough,” the detailed
+  turn-by-turn summaries of games discussed earlier. They will also know
+  where to find “cheats,” such as pirate programs to optimize their perfor-
+  mance in the game. (Note that just as in the case of B-movies, here we are
+  stretching the repertoire to include meta-elements—or elements beyond
+  the game itself—but such “cheats” are now an established part of game
+  communities.)
+
+The repertoire is activated by “clues” in the game (everything from the
+creepy sounds when you go up the stairs to the dark rain on the fresh tombs)
+and outside the game (such as the game cover, which shows a zombie reflec-
+tion in the eyes of the protagonist) which indicate that we are immersed in
+a survival horror game. Even if we were to start the game knowing nothing
+about it, we would still be able to summon the right repertoire—the right
+mental category—soon enough, as we immediately have to face the creaking
+stairs, and a few minutes later we find ourselves in the first graveyard sur-
+rounded by zombies.
+   If players fail to recall the right repertoire—imagine, perhaps, that we
+had never played a similar game, or never seen a horror movie—the game
+cannot be appropriately enjoyed. In the first scene, for example, an injured
+soldier helps Claire out of her cell. If we wrongly summon the repertoire of
+“love story” to try to explain this, we will concentrate on the fact that he is
+wounded, and waste all our time either staying in the cell with him, or try-
+ing to find medicine to cure him (which will not happen until we have done
+many other things in the game).
+   In reader response criticism, the act of reading is vital, as it transforms
+the literary text from artifact into aesthetic object. In other words, a text
+begins as a “dead” object with a lot of potential meanings that only become
+actualized through reading. Wolfgang Iser attempts to explain how this hap-
+pens through his theory of “filling in the gaps,” in which a reader starts from
+what the text says and figures out what it does not say. For example, if the
+text mentions that two new characters who meet in an elevator exchange
+hateful glances, the reader will wonder what the reason behind it is: maybe
+they know each other already and have had a fight; maybe they are ex-lovers;
+maybe they are fans of opposing football teams. As readers, we tend to try
+and confirm these hypotheses as we read.38
+   While playing a video game, our mind is busy with the story level and
+the action level at the same time. The first of these, which we experience on
+220   Narrative
+
+
+
+
+                  Figure 7.7 The cover of the European version of Resident Evil Code: Veronica X for
+                  PlayStation
+
+
+                  the fly, can be narrated afterwards (it is “tellable”39) and makes sense as a
+                  story (complete with character motivation and feelings); the second is about
+                  solving action problems, and if it was to be narrated it would be as a “walk-
+                  through.” To illustrate this, let us enter into Code: Veronica. The game opens
+                  with a cut-scene in which our character, Claire, is captured by the Umbrella
+                  Corporation men. The following description of this scene is written by Dan
+                  Birlew and Thomas Wilde, who have transposed the Resident Evil games
+                  into a series of stories.
+                                                                                    Narrative   221
+
+
+   Story Level
+   Slowly, someone clutching his stomach shambles into the room and
+   stands outside Claire’s cell door. Claire uses her lighter to see who it is,
+   and is surprised to see the face of the man who took her prisoner in Paris.
+      The man unlocks her cell and opens the door. As Claire hesitantly
+   steps outside her cell, he slumps into a nearby chair and pulls an empty
+   bottle of medicine out of his pocket. He throws it against the floor in frus-
+   tration. Not looking up, he tells Claire that the place is finished. They’ve
+   been attacked by what he thinks is a “special forces team.” Claire’s free
+   to leave the prison grounds, but he warns her that she has no chance of
+   getting off the island.40
+
+The gaps here open and close as they do in any narrative: Who is the guy?
+(open)—Umbrella guard who captured me (close); Why is he opening the
+door? Maybe he will kill me, maybe he is a spy (open)—he opens it because
+the base is under attack and wants to give me a chance (close); Do I believe
+him? (open) Do I have a chance? (open) Who is attacking us? (open)
+We could continue, but you get the idea: just as when reading a story, the
+gamer actively works to fill in the gaps.
+   However, unlike in a novel (or a movie), as the story grows and changes in
+our minds we also have to act. This walkthrough demonstrates the choices a
+player must make as they decipher the game’s clues.
+
+   Action Level
+   CELLBLOCK ROOM—We are in a cellblock. Start off by going to your
+   item screen. Go to the LIGHTER you see and use “Select” with the action
+   button. This will prompt a cut-scene. After the cut-scene, go back into
+   the cellblock and grab the ever important GREEN HERB. In the small
+   corner of the room, grab the HANDGUN BULLETS. On the desk near
+   the unconscious jailer is a COMBAT KNIFE. Once you have all the items,
+   you may exit the room.41
+
+As we can see, the walkthrough is full of things we need to do in order to get
+out of the cell and to the graveyard, but these things are not worth telling
+in the previous narration of the plot (in the same way that what the guard
+says is not worth telling in the walkthrough, which merely states “this will
+prompt a cut-scene”).
+    When we say that both levels are “active” in our minds at the same time,
+we do not mean that they are as clearly separated as in our descriptions
+here. This is an abstraction necessary for analysis, but in fact the act of play-
+ing is more than the sum of the two, since actual gameplay is full of doubts,
+ineffective movement, reloads, and at some point, probably death. This con-
+tent is also an essential part of playing.
+    So the act of playing is informed by: our cognitive, often unconscious
+filling in the gaps, our sense of what we think we have to do within the game,
+222   Narrative
+
+
+                  and the hand-eye coordination that gives us our playing ability. Below is
+                  Tosca’s description of the first time she played the opening scene of Code:
+                  Veronica, demonstrating the messy reality of actual gameplay:
+
+                     I walk around the cell in darkness, it takes some time to find lighter and
+                     learn how to operate it. I watch the cut-scene, have no idea what the guy
+                     is talking about, if they have been attacked shouldn’t the attackers be on
+                     my side? Why does he say I have no chance? Maybe it is a trap, am not
+                     sure I should trust him but have no option. He doesn’t talk anymore even
+                     though I try to click on him and approach him. (I don’t see the herb they
+                     recommend to take in the walkthrough.) I explore a lot of things with no
+                     result (try to open cupboard and get closer to the chest of drawers, but it
+                     doesn’t work). Since I know the game is about zombies and that the guy
+                     belongs to the evil corporation, I am not sure he won’t turn into a zombie
+                     at any minute and kill me, so I stab him repeatedly to finish him off before
+                     leaving the cell. This has required equipping the knife instead of the lighter,
+                     something that needs several tries before I find out how to do it.
+
+                  Actual gameplay is full of trial and error—especially at the beginning of the
+                  game when we are not familiar with the interface or the story. My descrip-
+                  tion of the endless things I attempted (moving the body, looking in the cup-
+                  boards), and my rationale for stabbing the man (the implicit association
+                  with movies or other games in which the undead come back to haunt you),
+                  are all actions appropriate to the unfolding framework of the story. Though
+                  they differ from the sequence of actions recommended by the walkthrough
+                  above, they are not wrong; the player is simply using the information that
+                  she has at that moment as she tries to fill in the gaps. The player will even-
+                  tually fill the gaps in the right way and find the right sequence of actions to
+                  perform (alone or with help of a walkthrough); or, perhaps, she will quit the
+                  game in frustration. And here is a remarkable feature of narrative in video
+                  games: it is perpetually unfolding, constantly folding back on itself, full of
+                  false starts and restarts, as the player contributes to the story’s creation with
+                  each action.
+                      Our take on the player experience of narrative resonates with Gordon
+                  Calleja’s more recent concept of “alterbiography,” defined as the “active con-
+                  struction of an ongoing story that develops through interaction with the
+                  game world’s topography, inhabitants, objects, and game rules and simu-
+                  lated environmental properties.”42 Calleja is also influenced by Iser, and talks
+                  about how the scripted narrative inspires and becomes a part of the player’s
+                  alterbiography, creating narrative involvement.
+                      We hope we have demonstrated that a close reading of a video game is
+                  not only possible but also that it yields interesting insights about how a game
+                  that makes use of stories is experienced by a player. Of course, one should
+                  keep in mind that the analysis presented here is very much determined by
+                  the genre to which Resident Evil Code: Veronica X belongs, just as any sim-
+                  ilar analysis will be tied to its subject. Different subgenres will require an
+                                                                                             Narrative    223
+
+
+adaptation of these concepts, but it is our belief that they are flexible enough
+to be extensively applicable. Using the notion of the “literary repertoire”
+demonstrates the vital importance of a game’s cultural (literary, filmic) con-
+text, and its gameplay context (knowledge from other games and genres).
+Similarly, exploring our innately human tendency to “fill in the gaps” of a
+story shows us that the interpretive process goes hand in hand with the skill-
+based operation of the game controls, which we can also call interactivity.
+Drawing from these and other insights of reader response criticism, we are
+given an intriguing perspective on narrative video games, one in which story
+and game are not opposed to each other but merge in a unique combination.
+
+A BRIEF HISTORY OF LITERARY THEORY
+AND VIDEO GAMES
+Having examined some of the applications of ideas about narrative to video
+games, here we will offer a historical look at the theoretical work that explic-
+itly deals with questions of narrative, storytelling, and fiction in relation to
+video games.
+    It is always arbitrary to isolate particular time periods, but there is a basic
+distinction between the works that appeared in the 1990s (or before) and
+those that appeared from 2000 onward. The 1990s was an exciting time
+in the nascent field of digital aesthetics: computers had become widespread,
+the Internet was becoming a major cultural focus, and various forms of dig-
+ital art, literature, and games were emerging. A whole group of theorists was
+attracted to the new digital medium, determined to uncover in what way it
+was special and different from previous media. These texts tend to consider
+video games as part of more general theories about digital media, while later
+works deal with video games as a unique object of study.
+    The transition is best demonstrated by Espen Aarseth’s groundbreaking
+book Cybertext, from 1997, still a landmark in the theoretical study of new
+media and narrativity. He makes a sharp analysis of the changes in textuality
+(the nature of the text) brought about by the digital era. Aarseth proposes a
+new model of textuality that can accommodate (among other things) print
+books, hypertexts, and video games, which he classifies according to an
+innovative typology. According to Aarseth, video games are “cybertexts,”
+that is, “texts that involve calculation in their production of scriptons,”43
+which means that the participation of the reader/user is not trivial, and the
+degree of involvement goes beyond the activity of reading. Aarseth’s foun-
+dation is narratology and reader response theories, which he develops to fit          Narratology: The
+the digital medium. His main point is that reading a normal book requires             study of narratives.
+an interpretive effort on the part of the reader, but engaging with a cybertext       Within computer game
+                                                                                      research narratology is
+requires something more, as it is a configurative activity. Cybertexts have           often seen as opposed
+existed for a long time (the I-Ching, for example, a book that uses printed           to ludology.
+symbols to decode the tosses of a group of coins, has been around for nearly
+three millennia44), but only with the computer do their properties become
+widespread and easy to implement.
+224   Narrative
+
+
+                            Cybertext examines the main genres of cybertextuality available at
+                         the time: hypertext, video games (in the form of adventure games),
+                         machine-generated literature, and MUDs. It was an important work in that
+                         it opened the textual paradigm to the texts of the digital era, offering an
+                         attractive alternative to the dominant hypertext theory of the time (which
+                         emphasized the similarities of the new kinds of text with postmodern the-
+                         ories of dispersion).
+                            Other pioneering work in the area was done by Janet Murray, in her
+                         Hamlet on the Holodeck, also from 1997, which we will consider later in this
+                         chapter; also by Marie-Laure Ryan45 and Mark J. P. Wolf,46 who attempts
+                         to describe video games as an independent medium within a framework
+                         of cultural and media history, leaning heavily on film studies, although he
+                         also considers the “formal aspects” of the video game (space, time, and
+                         narrative).
+                            Both of these first theorists and those who came after have been con-
+                         cerned with a number of issues very much framed by the typical theoretical
+                         problems of the digital era. These have kept hypertext theorists and digital
+                         aesthetic critics busy since the early 1990s:
+
+Ludology: The study      •   Ludology versus narratology
+of games, particularly   •   Interaction versus narrative
+computer games.
+                         •   The interactive storytelling paradigm: in search of quality
+Ludology is often
+defined as the study     •   The fictional status of video games.
+of game structure (or
+gameplay) as opposed     We can use these headlines as a way to thematize the theoretical discussions
+to the study of games    in the field.
+as narratives or games
+as a visual medium.
+                         Ludology Versus Narratology
+                         From our earlier discussion of literary theory, it seems like looking for sto-
+                         ries in video games would be quite straightforward, utilizing the accumu-
+                         lated knowledge of literary theory in order to approach our new aesthetic
+                         object. But this approach has not been uncontested. Quite the opposite—
+                         the use of literary theory has caused the biggest clash of paradigms in video
+                         game studies so far: the “war” between ludology and narratology.
+                            Literature is one the oldest subjects of study in the humanities, and as
+                         such its methods have been exported to the study of newer media, such as
+                         cinema; first steps in new disciplines are usually inspired by older ones. We
+                         could say that the same has happened in the case of video games, as some
+                         early approaches to the study of games centered on their representational
+                         quality, and thus authors have been able to apply literary and dramatic mod-
+                         els to the description and cultural understanding of video games.47
+                            However, some of these attempts have been rejected by a group of
+                         researchers, identified (by themselves and others) as “ludologists.”48 Their
+                         aim is to consider video games as games and not as narratives or anything
+                         else. The term “ludology” was introduced into video game studies by game
+                                                                                   Narrative   225
+
+
+theorist Gonzalo Frasca. He suggested that ludology be thought of simply
+as the “discipline that studies game and play activities.”49 In that broad sense
+there is no inherent opposition to literary approaches, and indeed “ludol-
+ogy” is sometimes used to merely refer to “the study of games” (using any
+approach). Expanding on this stance, however, Frasca has since specified
+that a ludological stance implies that “games cannot be understood through
+theories derived from narrative.”50
+    Jesper Juul’s article “Computer Games Telling Stories?” offers a balanced
+introduction to the debate. He argues that part of the problem arises from
+the indiscriminate use of the word “narrative.” If everything is a narrative,
+it is of course not very useful to say that video games can also be described
+as such. Juul also gives three reasons for why it is easy to confuse narratives
+with video games:
+
+1. The player can tell stories of a game session.
+2. Many video games contain narrative elements, and in many cases the
+   player may play to see a cut-scene or realize a narrative sequence.
+3. Video games and narratives share some structural traits.51
+
+Juul argues that we should resist the temptation to confuse the two forms,
+because it is impossible to translate video games into stories and vice
+versa.52 He also discusses how understanding narrative simply as a retelling
+of events can be misleading and how the experience of playing a game is
+very different from that of reading a story.
+   Ludologists have found a wide variety of reasons why subsuming video
+games under the headline of narrative is a bad idea; the most damning is
+that the approach can lead us to overlook the “intrinsic properties” of video
+games. The Finnish theorist Markku Eskelinen has overtaken Frasca’s less
+confrontational stance and is in the vanguard of ludology’s most radical
+anti-narrative critics. As he forcefully puts it:
+
+   The old and new game components, their dynamic combination and dis-
+   tribution, the registers, the necessary manipulation of temporal, causal,
+   spatial and functional relations and properties not to mention the rules
+   and the goals and the lack of audience should suffice to set games and the
+   gaming situation apart from narrative and drama, and to annihilate for
+   good the discussion of computer games as stories, narratives or cinema.53
+
+But the extremity of such a stance has further stoked the debate. The idea
+that games are first and foremost games—an argument bordering on the
+tautological—can be taken to mean that the formal properties of video
+games are more important, more intrinsic, than the stories in the games
+(or the graphics, or the social activity that games promote). The debate has
+raged on for the last several years, with ludologists attacking the coloniza-
+tion of the new field of game studies by alien disciplines such as literature.
+Controversy is sometimes good, and from a pragmatic perspective we can
+226   Narrative
+
+
+                  say that this discussion has helped bring the study of video games into the
+                  spotlight.54
+                      The debate has continued among game scholars, although lately the
+                  ludologists have been identified as “essentialists,” and narrative is no longer
+                  the enemy. The new struggle is between those who prefer to concentrate on
+                  the formalistic properties of games (the ludologists) and those who want to
+                  consider them as situated practices.55
+                      To return to the focus of this chapter, literary theorists have criticized
+                  radical ludology for viewing stories as “just uninteresting ornaments or gift
+                  wrappings to games, and laying any emphasis on studying these kinds of
+                  marketing tools is just a waste of time and energy.”56 Scholars like Marie-
+                  Laure Ryan, and later Julian Kücklich,57 see ludology as a threat to the fruit-
+                   ful application of narrative concepts to the study of video games.
+                      Computer games function as what Kendall Walton would call a “prop in
+                   a game of make-believe.” It may not be the raison d’être of computer games,
+                   but it plays such an important role as a stimulant for the imagination that
+                   many recent computer games use lengthy film clips, which interrupt the
+                   game, to immerse the player in the game world.58
+                      From this it follows that the two sides seem to be talking about different
+                  things when they say “narrative,” as ludologists see it as a fixed sequence of
+                  events forced on the player, while literary theorists see it as a loose fictional
+                  frame.
+                      Paradoxically, certain ludologists have come to agree with the impor-
+                  tance of stories. Jesper Juul’s Half-Real: Video Games between Real Rules
+                  and Fictional Worlds represents a move away from his earlier radical posi-
+                  tion, as he argues that the essence of video games as a cultural product is the
+                  unique way in which they combine “the rules that the player interacts with
+                  in real time with a fictional, imagined world.”59
+                      Beyond the squabbles, we should recognize the ludology-narratology
+                  wars as a symptom of the struggle to define the new discipline of game
+                  studies, beyond the dominant paradigms—the hypertextual60 and the
+                  ­cinematic61—of the beginnings of the study of digital textuality.
+
+
+                  Interaction Versus Narrative
+                  A game has to be interactive. This is the greatest strength of video games,
+                  but it is also a challenge. If the point of video games is that players do things
+                  (gameplay), the fact that in some video games they are forced to “sit and
+                  watch” (for example, cut-scenes) is seen by some designers and others as
+                  an unwelcome invasion. And if designers are able truly to integrate stories
+                  into the game, how can narratives ever be fully engaging if they always have
+                  to offer the player the possibility of winning? And how can artificial intel-
+                  ligences ever become interesting fictional characters? All these questions
+                  are derived from the ongoing debate of interaction versus narrative, a prob-
+                  lem inherited from earlier discussions about the status of digital literature,
+                  mostly from the field of hypertext theory.62
+                                                                                    Narrative   227
+
+
+   One solution to this problem is to separate interaction from narration
+and situate them in different planes, as Janet Murray does when she con-
+ceives of video games as symbolic dramas:
+
+   In games, therefore, we have a chance to enact our most basic relation-
+   ship to the world—our desire to prevail over adversity, to survive our
+   inevitable defeats, to shape our environment, to master complexity, and
+   to make our lives fit together like the pieces of a jigsaw puzzle. Each move
+   in a game is like a plot event in one of these simple but compelling stories.
+   Like the religious ceremonies of passage by which we mark birth, coming
+   of age, marriage and death, games are ritual actions allowing us to sym-
+   bolically enact the patterns that give meaning to our lives.63
+
+The trouble with this answer is of course the like, which puts video games
+and stories at different abstract levels. This might explain how narratively
+we make sense of the conflicts posed by video games but doesn’t tell us
+much about how stories actually work within them. We could also say that
+it seems much easier to create symbolic dramas than real interactive stories
+(at plot level), since anything can be read as a symbolic drama. Even Tetris,
+after all, has “clear dramatic content.”64
+    An alternative is Atkins’s analysis of video games that effectively integrate
+narrative and gameplay. More than a Game is dedicated to four video games
+that he sees “as having a central narrative impetus, that develop story over
+time, rather than simply repeat with minimal difference in a move from level
+to level of increasing excess.”65 The chosen games are Tomb Raider, Half-
+Life, Close Combat, and SimCity—which seem like strange choices since
+there are no adventure or role-playing video games among them, the two
+subgenres with a stronger narrative component.66 Each of the four games
+represents a good example of an effective strategy for integrating narrative
+and gameplay: Tomb Raider is a model of open-endedness and the use of
+quests; Half-Life employs innovative themes and perspective; Close Combat
+takes the concept of realism to new heights; and SimCity’s simulation rules
+can be read narratively, which means that game rules can have ideological
+implications. The book concludes with a discussion on the status of video
+games as a fictional form. It is a very compelling approach, but no links to
+previous theory are made, which undermines the author’s credibility when
+he tackles highly contested issues in the field of digital culture—such as
+interactivity or immersion—as if for the first time.
+    The narrative versus interactivity debate also crops up in most video game
+design textbooks, although the authors might not identify it as such.67 For
+instance, game designer Richard Rouse argues that all out-of-game story‑
+telling should be avoided, as it goes against the interactive experience of
+gaming. Rouse uses examples from bad cut-scenes (for example, from
+the game Tekken) to argue that very often they are not integrated into the
+game.68 In-game storytelling is the preferable option, which Rouse describes
+as “showing,” compared to the “telling” which occurs with out-of-game
+228   Narrative
+
+
+                  narrative. In-game storytelling is achieved by, for example, creating a believ-
+                  able world that gives a context to the plot, and by nonplayer characters with
+                  personalities. Deus Ex, with its successful in-game storytelling, is a good
+                  example of how to achieve both narrative and interaction; the gameplay
+                  offers the choice of acting in a violent or more pacifist way, so that players
+                  can create different stories as they go. “For in-game storytelling, players get
+                  to experience the story themselves instead of being told it secondhand”; it
+                  also maintains the player’s immersion in the game world.69
+                      Rouse is not alone in proposing a way to use “storytelling” to thematize
+                  the rules in games. Designers and theorists alike argue that fiction might
+                  actually have a very important function in video games.70 This connection
+                  is explored by Jesper Juul by looking at examples of “clashes” between rules
+                  and fiction:
+
+                     In the game of Grand Theft Auto 3, a blue arrow is placed over whatever
+                     object or target the player has to reach in a mission. Even though the
+                     game has been lauded for its elaborate world and detailed environments,
+                     the blue arrow clearly points to the rules of the game. This is at odds with
+                     a certain mode of thought that claims that a good game should never
+                     remind the player that he/she is playing a game. I claim that the player is
+                     always aware that the game is a game, and that this is part of the reason
+                     why we can accept incoherence in game worlds.71
+
+                  Juul argues that the fictional world is also needed in video games to enable
+                  players to infer the rules (to let them know which repertoire applies)—
+                  which in “good” games are anyway hidden from immediate perception.72
+                  This compromise is a step forward from early ludological positions, and cer-
+                  tainly demonstrates a more effective way of reconciling literary theory and
+                  video games.
+                     Perhaps further reconciliation is possible through a reexamination of
+                  our terminology. As we have already suggested, the idea that narrative and
+                  interactivity oppose each other springs from a definition of narrative as a
+                  linear unfolding of events; while this is true in many instances, it is not very
+                  interesting, as Jonas Heide Smith remarks.73 There are other forms of nar-
+                  rative than the traditional sequence, and especially interesting possibilities
+                  have recently bloomed, with the growth of multiplayer online games. We
+                  might even speculate that this argument will soon be a thing of the past, as
+                  we move past the dominant influence of single-player games. As we move
+                  forward, we might want to look at how narratives are produced in multi-
+                  player environments, for example, in which the parameters of the story are
+                  not all fixed by a designer and where new kinds of experiences arise due to
+                  the unpredictability of the players’ behavior.74
+                     In the same spirit, Henry Jenkins argues that games tell stories in their
+                  own unique way, and that their narratives are not equivalent to a simplistic,
+                  linear idea of a story of the type found in films or novels.75 Jenkins pro-
+                  poses, instead, that game stories are “spatial” and “environmental.” Spatial
+                                                                                    Narrative   229
+
+
+stories are related to those works of literature that tell a hero’s odyssey, or
+travel narratives; in the case of computer games the traveling would be done
+not only by the characters but also by the player. Environmental stories are
+related to the genres of literature that focus on the depiction of worlds, such
+as fantasy or science fiction; in computer games, it is the player that does
+the exploring. In order to construct a world that tells a story, game design-
+ers act like creators of amusement park rides; they are not storytellers but
+architects of narrative. Accordingly, Jenkins describes four ways in which
+narrative can appear in games:
+
+• Evoked narratives: When video games reproduce a world that is known
+  to players through other works of fiction, so that the games are part of an
+  encompassing system of meanings. For example, the game Blade Runner
+  reproduces the world of the film and the novel, so that players will be
+  able to “live out” the stories that exist in their imagination by visiting that
+  world.
+• Enacted narratives: Where, as Jenkins puts it, “the story itself may be
+  structured around the character’s movement through space and the fea-
+  tures of the environment may retard or accelerate that plot trajectory.”76
+  This category encompasses the spatial and environmental stories men-
+  tioned above. These are typically not appreciated by literary scholars,
+  as they privilege spatial exploration over plot development. This form is
+  very well suited to video games, as a designer can create the world that
+  the player will have to traverse and conquer.
+• Embedded narratives: When “the gamespace becomes a memory palace
+  whose contents must be deciphered as the player tries to reconstruct the
+  plot.”77 The classical embedded narrative would be a detective story, such
+  as those found in adventure games, where players encounter a world of
+  clues that have to be deciphered in order to find out about the story that
+  has already happened. A good example of this is Myst.
+• Emergent narratives: When “gamespaces are designed to be rich with
+  narrative potential, enabling the story-constructing activity of players.”
+  We have seen Juul’s description of these narratives earlier, in the sec-
+  tion on “Mechanics”; both Juul and Heide Smith have called this “object-­
+  oriented narration,” in which the gamespace is filled with objects with
+  their own behaviors, so that the player interaction creates unique events
+  that feel significant. Henry Jenkins gives the example of The Sims, which
+  allows players to create their own stories.78
+
+   These four kinds of narratives fail to address many of the elements dis-
+cussed in the first part of this chapter, such as the sequential storytelling we
+find in quests, or other literary ingredients such as characterization. How-
+ever, they may help move us beyond the frozen narrative versus interactivity
+discussion. Because these categories highlight other qualities of video game
+stories, such as their spatial component, and provide a way to introduce
+contextual elements (using the evoked narratives category, for example).
+230   Narrative
+
+
+
+
+                  Figure 7.8 Myst (1994), with its special embedded narrative, attracted a new audience to
+                  video games
+
+
+
+                  They offer a different and fruitful use of literary theory in relation to video
+                  games.
+
+
+                  The Interactive Storytelling Paradigm: In Search of Quality
+                  During the 1990s, the idea of the “interactive narrative” gained a certain
+                  prominence. It refers not to video games, nor hypertext (or other forms of
+                  digital literature) but rather to a sort of role-playing in which the computer
+                  can anticipate the player’s reactions and give an illusion of total interactivity.
+                  It is considered an ideal form of digital storytelling, deeply engaging and
+                  immersive. This paradigm approaches narrative from an Aristotelian and
+                  structuralist perspective, and its proponents are typically interested in the
+                  problems inherent in automatic generation of stories, or how to improve
+                  artificial intelligence. The field of interactive narrative has attracted scholars
+                  that work with design and programming of games, such as Craig A. Lindley
+                  or Michael Mateas,79 as well as theorists such as Marie-Laure Ryan.80
+                      The most influential work in this area is Hamlet on the Holodeck, by Janet
+                  Murray, an enthusiastic defense of the computer as the new storytelling
+                  medium, because of the way its four defining properties facilitate digital
+                  narration:
+
+                     Digital environments are procedural, participatory, spatial and encyclo-
+                     pedic. The first two properties make up most of what we mean by the
+                     vaguely used word interactive; the remaining two properties help to
+                     make digital creations seem as explorable and extensive as the actual
+                     world, making up much of what we mean when we say that cyberspace
+                     is immersive.81
+                                                                                  Narrative   231
+
+
+The “procedural” property refers to the computer’s ability to execute rules in
+succession and thus generate behaviors. For Murray, the computer charac-
+ter Eliza, created by Joseph Weizenbaum in 1966, is a good example of how
+the procedural property can produce the illusion of a “living person.” Eliza
+was able to converse with humans as if she was a psychologist that always
+turned your statements back at you. For example, if you typed: “I am wor-
+ried,” the program would respond: “What are you worried about?” Inspired
+by this, authors like Ian Bogost and Noah Wardrip-Fruin have developed
+theories about the specific expressive power of video games (and other dig-
+ital cultural forms) that are specifically tied to the procedural property (see
+Chapter 6).
+    The second, “participatory” property refers to the fact that we can influ-
+ence the production of behavior when interacting with a computer; an
+example is the textual adventure game Zork, in which the program responds
+to the textual input of the player and produces lines of text that describe her
+progress in the game, thus creating a story. Computers are also “spatial,” that
+is, able to represent navigable space.
+    Finally, the “encyclopedic” property points to the storage capacity of
+computers, whose memories can hold enormous amounts of information
+and allow us to interact with information-rich environments, from fan web-
+sites to MUDs to enormous games like SimCity and Civilization.
+    Without going into a detailed discussion of the four properties, it is not
+hard to see that video games turn out perfectly to embody each of them, and
+are thus, it could be argued, the perfect vehicle for digital storytelling.
+    Murray is inspired by the “holodeck,” the entertainment system of the
+Star Trek universe. The holodeck is an immersive entertainment environ-
+ment, a virtual reality machine that makes stories come to life and lets
+“readers”—in this case the ship’s crew—participate as actors in completely
+realistic virtual environments that make use of all five senses. An example
+Murray gives is that of the female starship captain in the series Star Trek:
+Voyager who is entertained with a story inspired by Jane Eyre, in which she
+plays a nineteenth-century governess and nearly falls in love—in “real” life—
+with the virtual hero.82
+    Following the promise of the holodeck, Murray’s dream is that of a “cyber-
+bard”—a Homer or Shakespeare of the future, able to bend the computer to
+more artistic uses than those we know today. Murray’s book is inspiring, filled
+with rich personal anecdotes about new media experiences, even though it
+also suffers from excessive utopianism. The book overstates the interest that
+interactive narrative might hold for average audiences, and projects the idea
+of the romantic author into the future. As for computer games, even though
+Murray identifies them as the greatest commercial success and creative effort
+in digital storytelling, she thinks they are not yet mature as a medium: “The
+narrative content of these games is thin, and is often imported from other
+media or supplied by sketchy and stereotypical characters.”83
+    Janet Murray was influenced by an earlier book by Brenda Laurel, Com-
+puters as Theatre, from 1991, about interface design and drama, although
+232   Narrative
+
+
+                  it also deals with video games and offers a dramatic model for computer-
+                  human interaction. Laurel’s opinion of video games, however, regardless
+                  of their technological advancements, is also not very positive: “I find most
+                  video games to be boring, frustrating and ‘obstructionist’ in the sense that
+                  they require players to solve puzzles primarily for the purpose of extending
+                  the duration of game play.”84
+                      The dubious opinions these scholars hold of video games are in part due
+                  to their judging them by the quality standards of other media, such as mov-
+                  ies or print novels. They suggest that the simplicity of game narratives can
+                  be overcome in different ways, involving everything from complex artificial
+                  intelligence or more detailed fictional worlds. Mark J. P. Wolf, another author
+                  worried about the quality of video games, seems to equate the emotional
+                  complexity of a player’s experience with the level of detail in the games’ visual
+                  imagery. He writes, for example, that Myst is a turning point in the devel-
+                  opment of the video game’s diegetic world, because of the light effects that
+                  create a rich world and that inspire contemplative moods in the player.85
+                      Murray offers some guidelines for creating engaging, interactive story-
+                  telling. To begin with, formulaic storytelling could make use of the same
+                  plots all stories are made of, combined in an interesting way that possibly
+                  involves powerful artificial intelligence.86 Murray suggests that procedural
+                  storytelling could be similar to ancient oral storytelling (the bardic system),
+                  although how this inspiration can be used to combine plots is not entirely
+                  clear. She also stresses the importance of using well-known genres (like mys-
+                  tery or science fiction) in order to exploit knowledge that the user already
+                  has—in a way similar to the “repertoire” concept of reader response theory.
+                      Vladimir Propp’s “morphology of the folktale” might be another tool
+                  to help create digital stories. His system, created in 1928, describes how
+                  Russian folktales can be analyzed by isolating small narrative units that are
+                  combined in different ways but essentially repeat themselves in many tales
+                  (for example, the hero leaves home, or the hero gets a present). Murray
+                  argues that interactive narrative would benefit from reproducing his formu-
+                  laic system of story elements, symbols, and character functions. According
+                  to Murray, Propp’s algorithm is much more complex than “most electronic
+                  computer games currently on the market,” which are limited to two or three
+                  themes such as “fight bad guy,” “solve puzzle,” and “die.” Without consider-
+                  ing the economic reasons behind this simplicity, she sees it as a problem
+                  that video games “do not allow substitution of thematic plot elements” that
+                  would require much more ambitious programming.87
+                      A productive take on these problems is exemplified by the work of scholar
+                  and designer Michael Mateas, who together with Andrew Stern has created
+                  the most successful interactive drama to date, Façade. This piece combines
+                  both a credible and engaging plot with believable characters, while allowing
+                  real interaction on the part of the player, who communicates with the pro-
+                  gram using natural language.
+                      Mateas and Stern explicitly wanted to create an Aristotelian plot arc.88
+                  Their AI system tries to respond to the input of players and change dramatic
+                                                                                           Narrative   233
+
+
+
+
+Figure 7.9 Façade (2005) attempts to use natural language interaction to create a deeper
+interactive narrative experience
+
+
+
+values so that the interaction actually has an effect on the development of the
+story. What lies behind the relatively simple interface is a carefully planned
+programming of story units, which they call “beats.” “Roughly, a beat con-
+sists of an action/reaction pair between characters. Beats are sequenced to
+make scenes, scenes to make acts, acts to make stories. The AI plot system
+contains a library of beats appropriate for our story.”89 Façade is both a sim-
+ulation and a plotted narrative. At any moment, the player experiences the
+freedom to interact in natural language and to send the action one way or
+the other, but a “drama manager”
+
+   continuously monitors the simulation and proactively adds and retracts
+   procedures (behaviors) and discourse contexts by which Grace and Trip
+   operate. That is, the rules of the simulation are regularly being updated in
+   an attempt to give the player a well-formed overall experience with unity,
+   efficiency and pacing.90
+
+And it works. Even though there are occasions on which the system fails to
+recognize player input, most interactions elicit an appropriate answer, and
+the story can be played a few times with different outcomes.
+   The paradigm of the interactive narrative does have a lot to offer our
+study of video games. In the relentless search for quality advocated by Mur-
+ray, Laurel, and others—in their insistence on the ways that narrative can be
+adapted to new technologies—we have to admire their enthusiasm about
+the possibilities of the new medium and their attempt to describe what it is
+about interactivity that people desire so much.
+234   Narrative
+
+
+                  The Fictional Status of Video Games
+                  From the foregoing discussion, it seems clear that fiction in video games
+                  does not work according to the same parameters as in representational
+                  media; it should also be clear that we cannot apply literary theories whole-
+                  sale to the study or design of video games without considering their specific
+                  properties. A variety of authors have begun to move beyond the quagmire
+                  of narrative, to focus instead on what kinds of fictions video games are, and
+                  how we could delimit their fictional properties.
+                     A foundational theoretical premise for these scholars is to decide what
+                  the game world is. Is the game world a prop for the player’s imagination (in
+                  Walton’s sense), or is the world a virtual object or stage for the game to take
+                  place on? In Marie-Laure Ryan’s words:
+
+                     In an abstract sense, of course, most if not all games create a “game-world,”
+                     or self-enclosed playing space, and the passion that the player brings to
+                     the game may be regarded as immersion in this game-world. But I would
+                     like to draw a distinction between “world” as a set of rules and tokens,
+                     and “world” as imaginary space, furnished with individuated objects. The
+                     pieces of a chess game may be labeled king, queen, bishop, or knight, but
+                     chess players do not relate to them as fictional persons, nor do they imag-
+                     ine a royal court, a castle, an army, and a war between rival kingdoms.91
+
+                  One of the consequences of such a distinction is that the world we imagine
+                  in our heads is not equivalent to the visual appearance of the virtual world
+                  of the game. Thus, we should consider the whole world experience and not
+                  just what has been called, by authors such as Wolf, the “diegetic represen-
+                  tation” of a world, which is just the “world on screen.”92 For Wolf, this is
+                  different from “extradiegetic narration,” that is, how video games point to
+                  other diegetic worlds (television shows, movies, novels, and the like). Wolf ’s
+                  examples of extradiegetic narration are of intro movies, cut-scenes, intro
+                  screens, and game manuals. However, the meta level of genre references
+                  not only points to stories in other media, it also calls up the player’s game
+                  repertoire93—as discussed in relation to reader response theory—so that the
+                  player can also infer how the game world will work. In other words, the
+                  world allows us to make inferences about the rules.
+                     Salen and Zimmerman’s concept of the “narrative descriptor” is a good
+                  example of elements beyond the game. Narrative descriptors are “represen-
+                  tations, which means that they are depictions of one or more aspects of
+                  the game world”;94 these can be graphics on the side of the arcade cabinet,
+                  manuals, soundtracks, cut-scenes, and so on. Let us, for example, look at
+                  their description of the action in Asteroids, from which players will be able
+                  to infer much about interaction and gameplay:
+
+                     Shoot the asteroids while avoiding collisions with them. Occasionally a
+                     flying saucer will appear and attempt to shoot you down with guided
+                     missiles. Destroy it or the missiles for more points.95
+                                                                                    Narrative   235
+
+
+These few sentences remind us not only of a genre that is related to other
+media—science fiction—but also of typical video game conventions—in
+this case the reward system. Video game conventions, for example, hav-
+ing several “lives,” are very important for the gaming experience, even if
+they wouldn’t make sense in a traditional narration. Imagine an account of
+Romeo and Juliet where Romeo was allowed to start all over again after dis-
+covering his lover dead, as many times as it took for them to be together
+and live happily ever after. We would perceive this not only as incoherent
+but also as totally destructive of the play’s dramatic effect. Jesper Juul argues
+that the incoherence and instability of video game fictions does not mean
+that these fictions are of lesser quality than those found in other media;
+rather, they just need to be considered from their own perspective:
+
+   The worlds that video games project are often ontologically unstable,
+   but the rules of video games are very ontologically stable. While we may
+   not be able to explain why Mario reappears in Donkey Kong, we always
+   know for certain how many lives we have left. That the majority of fic-
+   tional game worlds are incoherent does not mean that video games are
+   dysfunctional providers of fiction, but rather that they project fictional
+   worlds in their own flickering, provisional, and optional way.96
+
+Espen Aarseth has also dealt with the question of fiction in video games,
+and comes to the conclusion that computer games are not fictions in the
+same way as, say, books or films are, even though they do contain fictional
+elements. Some of the fictional elements in computer games are just rep-
+resentations (for example, a door that cannot be opened), but others can
+be operated in the same way as objects in the real world (some doors can
+be opened, closed, and locked). These would have a middle status, a com-
+bination of representation and simulation. Aarseth talks about “virtuality,”
+and concludes that “instead of the common notion that game worlds are
+fictional, we should start to see them as composites where the fictional ele-
+ment is but one of the many types of world-building ingredients.”97
+    In a remarkable conjunction of ideas, other authors from Henry Jenkins to
+Julian Kücklich have also proposed literary approaches to the study of video
+games based on their capacity to evoke fictions, and not on their narrative
+qualities,98 which takes us out of the cul-de-sac of the ­narratology-ludology
+debate. The fictional worlds approach has also opened the door to study-
+ing video games as a part of wider ecologies of fiction, such as transmedia
+worlds, where the specific strengths of video games for storytelling pur-
+poses are considered in relation to other media products such as books,
+films, or television series.99
+
+
+TRANSMEDIA GAMES
+Transmedia studies have become a field in its own right100 and grown very
+much in scope since Marsha Kinder identified video games as a crucial part
+of what she called “commercial transmedia supersystem,”101 which we today
+236   Narrative
+
+
+                  might rather call transmedia franchises. Kinder proposed that intertextu-
+                  ality could emerge from products such as toys and of course games. Also
+                  Henry Jenkins, who coined the expression “transmedia storytelling,” con-
+                  sidered games as one more brick in complex entertainment systems, where
+
+                    In the ideal form of transmedia storytelling, each medium does what it
+                    does best-so that a story might be introduced in a film, expanded through
+                    television, novels, and comics, and its world might be explored and expe-
+                    rienced through game play.102
+
+                  This somehow subordinate position of video games (at least in story-related
+                  terms) has been the rule whenever video games have been part of com-
+                  plex transmedia systems, also today, they are “characterized by an adap-
+                  tation aesthetic, a process through which the images and characters from
+                  the film become playable and/or navigable.”103 Transmedial studies as a field
+                  spans over several disciplines, ranging from media studies to communica-
+                  tion to the humanities, so video games are interesting objects of study from
+                  different angles (as part of franchises, as carrying specific affordances, as
+                  fulfilling narrative roles). The narrative-centric transmedia research is best
+                  represented by the work of Marie-Laure Ryan104 and Jan-Noel Thon,105 who
+                  both have argued in favor of separating the concept of transmediality from
+                  an attachment to a particular medium and instead work toward an over‑
+                  arching theory of transmedia narratives that would also include video games:
+
+                    I am thinking here of principles such as extending the timeline, creating
+                    prequels and sequels, telling the story of secondary characters, extending
+                    the geography of the storyworld, telling the story from a different point of
+                    view and leaving some unresolved issues that can be answered in another
+                    narrative. These principles are timeless and independent of medium.106
+
+
+                  FINAL REMARKS
+                  Perhaps these developments mean that the field is moving toward more
+                  stimulating discussions that also take into account more contemporary lit-
+                  erary theory. However, postmodern literary theory has not been a part of
+                  the debate so far, and perhaps it never will be. Stories in computer games are
+                  still in their infancy, and the heavily loaded postmodernist theories about
+                  deconstruction or other dispersions of the text wouldn’t be of much help at
+                  this stage.
+                      So let us return to the question we posed at the beginning of the chapter:
+                  are video games stories? Yes, we would answer. Many video games are sto-
+                  ries, as well as games. Some games contain more narrative than others, but
+                  even the most abstract usually include the sketched elements of a fictional
+                  world. And we need to take into account the narrative elements of a video
+                  game if we are to fully understand the medium and how player interaction
+                  is shaped.
+                                                                                      Narrative   237
+
+
+
+
+                  DISCUSSION QUESTIONS
+
+   • Think about a game you have played where you liked the story. How is
+     it different from other kinds of stories, such as those in books or mov-
+     ies? What do you like and dislike in video game stories?
+   • Think about a memorable video game character (including player char-
+     acters) and discuss why you remember him or her. How are characters
+     in games different from characters in other media?
+   • What makes a good quest in a game? Why? Use examples to illustrate
+     your answer.
+   • Summarize a good story-based game you have played. What do you
+     leave out when you summarize it? Why?
+   • Are interactivity and narrative totally opposed? In other words, can a
+     game designer give options to her players while at the same time mak-
+     ing sure they experience a good story? Discuss, using theory from the
+     chapter as well as examples from your own experience.
+
+
+
+
+                  RECOMMENDED GAMES
+
+Resident Evil Code: Veronica X—A great example of the narrative strength that
+can come to play in computer games.
+
+BioShock series—A great example of how narrative can work in games, and
+where the moral nature of your choices adds an extra dimension to the game
+experience. BioShock shows how the story and the game can really work
+together, where too often the narrative almost gets in the way of the game.
+
+Baldur’s Gate 2—A classic example of how narrative is used in games to enrich
+the classic game mechanics. Very well executed with a few interesting twists
+where the narrative sometimes breaks the artificial boundary between the
+game and the story—allowing the story to overtake the game experience at
+key points in the story.
+
+Façade—An early example of interactive fiction heavily relying on artificial intel-
+ligence to construct a unique experience every time you play the game. Often
+seen as one of the first successful examples of a truly interactive narrative able
+to respond to player actions.
+
+Silent Hill 2—An intriguing example of how well narrative can work to infuse
+the game experience, where your actions in the game influence how the story
+develops. The twist of the narrative undermining your protagonist is as disturb-
+ing as it is effective in creating a unique experience.
+238   Narrative
+
+
+
+
+                                          FURTHER READINGS
+
+                    Aarseth, E. (2012, May). A narrative theory of games. In Proceedings of the
+                       International Conference on the Foundations of Digital Games (pp. 129–
+                       133). ACM.
+                    (Estimated reading time: 22 minutes)
+                    Fernández-Vara, C. (2011). Game spaces speak volumes: Indexical storytelling.
+                       Proceedings of DiGRA 2011 Conference: Think Design Play.
+                    (Estimated reading time: 28 minutes)
+                    Kücklich, J. (2001, September). Literary theory and computer games. In Pro-
+                       ceedings of the First Conference on Computational Semiotics for Games
+                       and New Media (COSIGN).
+                    (Estimated reading time: 35 minutes)
+
+
+
+
+                  NOTES
+                  1. From the game package of                  8. Aarseth, 2000.
+                     Westwood’s Blade Runner. Just             9. Aarseth, 2000.
+                     like the film, the game is set in Los    10. Calleja, 2011, p. 92.
+                     Angeles in 2019, and the player has      11. Rouse, 2001, p. 223.
+                     the role of a rookie blade runner        12. Klevjer, 2002; Wolf, 2001.
+                     named Ray McCoy, who has to deal         13. Klevjer, 2002, p. 198. This definition
+                     with several dangerous replicants.           follows Gérard Genette, for whom
+                  2. www.lucasarts.com/products/star              “diegesis” would mean the narrative
+                     warsracer/default.htm.                       of a work of fiction, that is, the story,
+                  3. On the similarity of The Sims and            so that everything that did not
+                     doll’s house play, see Flanagan, 2003;       belong to the main story would be
+                     Krotoski, 2004, p. 12.                       “extradiegetic.” Later, in film theory,
+                  4. From promotional material for the            diegesis has been understood to
+                     game, as quoted at, for example,             include the elements that belong
+                     www.metacritic.com/game/game                 to the main story (for example, the
+                     cube/the-sims.                               background of the characters that
+                  5. The discussion here builds on                has led to their situation).
+                     Rimmon Kenan, 2002.                      14. Klevjer, 2002, p. 200.
+                  6. As Rimmon Kenan herself notes,           15. Collins English Dictionary. Italics
+                     these distinctions have been given           added.
+                     different names by different literary    16. Wolf, 2001, p. 98. Unlike characters
+                     theorists; for example, Genette’s            in other media, who are deeper and
+                     histoire, récit, and narration. This         capable of development, characters
+                     is not the place to discuss them             in video games follow a goal, which
+                     and compare them, as we are only             can be “score oriented, conflict
+                     interested in definitions that will          oriented, task oriented or some
+                     help us understand computer games.           combination of these.” However,
+                  7. In her PhD thesis, Towards a Poetics         Wolf ’s argument suffers from a
+                     of Virtual Worlds: Multiuser                 confusion between the personality
+                     Textuality and the Emergence of              of the fictitious characters (in many
+                     Story (Klastrup, 2003, p. 19).               cases absent) and the actions players
+                                                                                                           Narrative   239
+
+
+    have to take when controlling them.          of the Resident Evil Videogame
+    There is no reason why a playing             Series,” by Dan Birlew and Thomas
+    character cannot be a narrator, for          Wilde. Downloaded from http://
+    example.                                     db.gamefaqs.com/console/psx/file/
+17. Vladimir Propp published his                 resident_evil_plot.txt (June 30, 2005).
+    Morphology of the Folk Tale in           41. This walkthrough by CVXFREAK
+    1928, offering among other things            was downloaded from http://db.
+    a typology of characters according           g amef aqs .com/cons ole/dre am
+    to their function in these narratives,       c a s t / f i l e / r e s i d e nt _ e v i l _ co d e _
+    such as: the hero, the villain, the          veronica_complete.txt (June 30,
+    donor, the dispatcher, the false hero,       2005).
+    the helper, the princess, and the        42. Calleja, 2011, p. 127.
+    father (of the princess); Propp, 1969.   43. Aarseth, 1997, p. 75. “Scriptons”
+18. Gard, 2000.                                  are the text units the reader sees
+19. MacCallum-Stewart and Parsler, 2008.         on-screen after having manipulated
+20. Tosca, 2003a.                                the text. They are different from
+21. Rouse, 2001, p. 235. However, some           “textons,” which are all the units
+    theorists disagree. Ken Perlin, for          that make up the text but which are
+    example, maintains that we cannot            not necessarily visible to the reader,
+    identify with game characters unless         for example, the programming
+    they have a strong personality, since        language.
+    if they are empty and only “filled”      44. The I-Ching is a multi-authored
+    through our agency, identification is        text whose current written version
+    impossible; Perlin, 2004.                    probably dates from around 800 years
+22. See, for instance, Bringsjord, 2001.         before Christ. It consists of 64 symbols,
+23. Laurel, 1993, p. 145.                        each of which contains a main text
+24. Meehan, 1976.                                and six smaller texts. Readers have to
+25. Lebowitz, 1984.                              toss three coins in order to combine
+26. Lebowitz, 1984, p. 146.                      these fragments, and the random
+27. Smith, 2000a.                                result (1 of 4,096 possibilities) is used
+28. Juul, 2001.                                  in predictions and future-telling;
+29. Smith, 2000b.                                Aarseth, 1997, p. 75.
+30. Tronstad, 2001; Tosca, 2003b;            45. Ryan, 1991, 2001b.
+    Aarseth, 2003; Howard, 2008. The         46. Wolf, 2001.
+    analysis here is based on Tosca,         47. Laurel, 1993; Murray, 1997; Ryan,
+    2003b.                                       1991, 2001b; Aarseth, 1997.
+31. Walker, 2007.                            48. See Frasca, 2003b, for a history of
+32. Howard, 2008.                                the concept. Ludus means “game”
+33. Krzywinska, 2009.                            in Latin, therefore “ludology”
+34. Ryan, ML (2001b).                            would be the study of games. The
+35. Released in 2001 for the PlayStation         (mostly Scandinavian) researchers
+    as an updated version of the original        associated with this term are
+    2000 Dreamcast game.                         Markku Eskelinen, Gonzalo Frasca,
+36. Iser, 1979, p. 69.                           Aki Jaarvinen, Jesper Juul, and Espen
+37. “Actualize”      here     means     to       Aarseth.
+    understand the cues provided by          49. Frasca, 1999.
+    the text and call up the relevant        50. Frasca, 2001b.
+    repertoire—in other words, make          51. Juul, 2001.
+    the appropriate projections.             52. Although he doesn’t mention
+38. Iser, 1979, p. 169.                          adaptation of fictional universes,
+39. In Marie Laure Ryan’s sense; Ryan,           which is certainly possible, as in the
+    1991.                                        case of the Blade Runner game, even
+40. From a 135-page document                     though the same sequence of events
+    entitled “A Detailed Plot Analysis           is not maintained.
+240   Narrative
+
+
+                  53. Eskelinen, 2001.                          76. Jenkins, 2003a, p. 129.
+                  54. A good summary of the history of          77. Jenkins, 2003a, p. 129.
+                      the controversy can be found in           78. Jenkins, 2003a.
+                      Frasca, 2003b.                            79. Examples of their work include
+                  55. See, for example, Taylor, 2006;               Lindley, 2002; Mateas, 2001.
+                      Malaby, 2007; Consalvo, 2009.             80. In her books Possible Worlds,
+                  56. Eskelinen, 2001.                              Artificial Intelligence, and Narrative
+                  57. Kücklich, 2002, 2003a.                        Theory and Narrative as Virtual
+                  58. Ryan, 2001a.                                  Reality; Ryan, 1991, 2001b. Ryan’s
+                  59. Juul, 2005, p. 145.                           work connects literary theories
+                  60. Landow, 1992.                                 of possible worlds to the realm
+                  61. Manovich, 2001.                               of the digital, and engages with
+                  62. Authors like Landow, 1992 or                  literary definitions of virtual reality,
+                      Douglas, 1992 discuss the break               simulation, and immersion in
+                      with traditional narrative brought            relationship to narrative.
+                      about by hypertext narrative.             81. Murray, 1997, p. 71. Italics added.
+                  63. Murray, 1997, p. 143. Italics added.      82. In the episode “Persistence of
+                  64. Murray, 1997, p. 144.                         Vision”; see Murray, 1997, ch. 1.
+                  65. Atkins, 2003, p. 20.                      83. Murray, 1997, p. 51.
+                  66. There might be a historical               84. Laurel, 1993, p. 167.
+                      explanation, though, since the classic    85. Wolf, 2001.
+                      genre of adventure computer games         86. Murray, 1997, p. 186.
+                      is no longer so popular, but its          87. Murray, 1997, p. 197.
+                      characteristics have been incorporated    88. Mateas, 2001, p. 151.
+                      into other subgenres, such as action-     89. Mateas, 2001, pp. 151–152.
+                      adventure or survival horror.             90. Mateas and Stern, 2003, pp. 5–6.
+                  67. Salen and Zimmerman call this             91. Ryan, 2001b, p. 307. Jesper Juul also
+                      opposition “crafted story” versus             makes a distinction between “the
+                      “emergent experience”; see Salen and          worlds we find in computer games
+                      Zimmerman, 2004, pp. 383–384.                 and how computer games cue the
+                  68. Rouse, 2001, p. 223.                          players into imagining worlds”;
+                  69. Rouse, 2001, p. 227.                          Juul, 2003a, p. 109.
+                  70. For example, Ryan, 2001a; Wolf,           92. Wolf, 2001, p. 94.
+                      2001, pp. 109–110; or Laurel, 1993,       93. Tosca, 2003c.
+                      p. 106, who talks about goals as          94. Salen and Zimmerman, 2004, p. 399.
+                      framework for action.                     95. Salen and Zimmerman, 2004, p. 400.
+                  71. Juul, 2003a, p. 146.                      96. Juul, 2003a, p. 169.
+                  72. Juul, 2003a, p. 163.                      97. Aarseth, 2005, p. 4.
+                  73. Smith, 2000b.                             98. Jenkins, 2003; Kücklich, 2003b.
+                  74. Smith, 2000b. This is a rather            99. Jenkins, 2003; Klastrup and Tosca,
+                      underexplored area in computer                2004, 2011.
+                      game studies, with the exception of      100. Freeman and Rampazzo Gambaratto,
+                      the work of Anders Drachen (later             2018.
+                      published under the name Anders          101. Kinder, 1991, p. 38.
+                      Tychsen);      Tychsen,      Hitchens,   102. Jenkins, 2003.
+                      Brolund, McIlwain, and Kavakli, 2008,    103. Kennedy, 2018, p. 72.
+                      Tychsen, Hitchens, and Brolund,          104. Ryan, 2014, 2016.
+                      2008; Drachen and Smith, 2008.           105. Thon, 2016.
+                   75. Jenkins, 2003a.                         106. Ryan, 2016, p. 7.
+
