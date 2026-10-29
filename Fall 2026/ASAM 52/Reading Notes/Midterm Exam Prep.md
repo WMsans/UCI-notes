@@ -31,7 +31,7 @@
 
 ## §1.1b Espiritu, Yen Le —— "Coming Together: The Asian American Movement"（*Asian American Panethnicity*, ch. 2, 1992）
 
-**One word**: Pangenerational
+**One word**: Panethnicity
 
 **一句话主旨**：泛亚裔认同**不是自然形成，而是被建构出来的**——"亚裔美国人"起初是外部强加的种族笼统化类别，1960 年代末被学生行动者重塑为**政治认同**与动员基础。
 
