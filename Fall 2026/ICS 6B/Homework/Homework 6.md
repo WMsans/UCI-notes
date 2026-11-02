@@ -16,6 +16,7 @@ CNF
 
 (g)
 Neither
+
 # 5.3.3
 (d)
 $(x + y\overline{z})(\overline{x} + y + \overline{z})$
@@ -62,12 +63,14 @@ Only NOR: $f = \overline{ \overline{x+y} + \overline{ \overline{x+x} + \overline
 # 5.6.4
 (b)
 $f = xy + xz + yz$
+
 ![[Pasted image 20261101165949.png]]
 
 # 5.4.5 
 (a)
 We will construct {$+$, complement} which is functional complete.
 Since the complement operation is in both sets, it is sufficient to show that $+$ can be computed using complement and $\rightarrow$. One of the conditional identities from the laws of propositional logic says that $x \rightarrow y$ is equivalent to $\overline{x} + y$. Therefore, $x + y$ is equivalent to $\overline{x} \rightarrow y$. Therefore, {complement, $\rightarrow$} is functional complete. 
+
 # 5.5.5
 (a)
 $x_{A1} + x_{A2} + x_{A3}$  (1 iff A is in at least one period)
