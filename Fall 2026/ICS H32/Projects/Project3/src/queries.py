@@ -5,7 +5,6 @@ from temperature import feels_like, to_celsius
 
 Query = namedtuple('Query', ['kind', 'scale', 'length', 'limit'])
 
-_TEMPERATURE_KINDS = ('AIR', 'FEELS')
 _PERCENT_KINDS = ('HUMIDITY', 'PRECIPITATION')
 
 

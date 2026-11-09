@@ -5,7 +5,7 @@ import urllib.request
 USER_AGENT = '(https://ics.uci.edu/~thornton/icsh32/ProjectGuide/Project3/, jeremyz4@uci.edu)'
 
 class FetchError(Exception):
-    """A failure that prevents the program from producing its normal output."""
+    """Failure whose code and source become the FAILED line of output."""
 
     def __init__(self, code: str, source: str, status: int | None = None) -> None:
         super().__init__(f'{code}: {source}')
@@ -15,7 +15,7 @@ class FetchError(Exception):
 
 
 def fetch_json(url: str, accept: str = 'application/json'):
-    """Downloads and decodes the JSON at the given URL, or raises FetchError."""
+    """JSON from a URL. Every way it can go wrong comes back as FetchError."""
     request = urllib.request.Request(
         url, headers={'User-Agent': USER_AGENT, 'Accept': accept}
     )
@@ -39,7 +39,7 @@ def fetch_json(url: str, accept: str = 'application/json'):
 
 
 def read_json(path: str):
-    """Reads and decodes the JSON stored in the given file, or raises FetchError."""
+    """Same as fetch_json, but from a file that was saved earlier."""
     try:
         with open(path, encoding='utf-8') as file:
             body = file.read()

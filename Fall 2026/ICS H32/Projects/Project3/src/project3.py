@@ -75,9 +75,11 @@ def _process(lines) -> list[str]:
 
 
 def _split(line: str) -> list[str]:
-    """Splits an input line into its keyword, its kind, and the rest of the line."""
+    """Keyword, kind, argument, padded with '' when the line is short."""
     parts = [part.strip() for part in line.split(maxsplit=2)]
-    return parts + [''] * (3 - len(parts))
+    while len(parts) < 3:
+        parts.append('')
+    return parts
 
 
 if __name__ == '__main__':

@@ -18,7 +18,7 @@ HourlyForecast = namedtuple('HourlyForecast', ['location', 'periods', 'source'])
 
 
 class WeatherFile:
-    """Obtains an hourly forecast from a file of saved National Weather Service data."""
+    """Hourly forecast from a saved NWS response."""
 
     def __init__(self, path: str) -> None:
         self._path = path
@@ -28,7 +28,7 @@ class WeatherFile:
 
 
 class WeatherNws:
-    """Obtains an hourly forecast from the National Weather Service's API."""
+    """Hourly forecast from the live API: two calls, points then forecast."""
 
     def hourly(self, latitude: float, longitude: float) -> HourlyForecast:
         points_url = f'{_POINTS_URL}{latitude},{longitude}'
