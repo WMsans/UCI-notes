@@ -92,7 +92,7 @@ def main():
                 current_location = new_dest + ".dat"
                 successed = True
             except ValueError:
-                print("Invalid command. Try again.")
+                continue
 
 
 if __name__ == "__main__":
