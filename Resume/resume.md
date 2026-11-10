@@ -1,10 +1,10 @@
-# TODO Full Name
+# Jeremy Zhao
 
 Math Teacher & Academic Counselor
 
-Irvine, CA | TODO email | TODO phone | Mandarin · English
+Irvine, CA | jeremyzhao091@gmail.com | 949-482-7445 | Mandarin · English
 
-## Math Achievements
+## Acedemic Achievements
 
 - Scored 145/150 on the AMC 10
 - Scored 24/25 on the AMC 8
@@ -24,17 +24,18 @@ Irvine, CA | TODO email | TODO phone | Mandarin · English
 
 *Schoolhouse.world*
 
-- Tutor SAT Math and SAT English in free small-group and one-on-one sessions
+- Tutor SAT Math and SAT English in volunteer sessions
 - Walk students through the problems they missed until they can solve the next one alone
 
-### Remote Tutor | 2023 – 2024
+### Remote Tutor | 2022 – 2023
 
-*TODO non-profit name, Shanghai*
+*Hepu tutoring program, Shanghai*
 
-- Taught TODO subjects to students in Shanghai over video
+- Taught math, english and history subjects to elementary students in Shanghai over video
 
 ## Education
 
+### Portola High, Irvine | 2022-2026
 ### University of California, Irvine | Expected 2030
 
 *B.S. Computer Science*
@@ -42,5 +43,4 @@ Irvine, CA | TODO email | TODO phone | Mandarin · English
 ## Skills
 
 - **Languages:** Mandarin, English
-- **Subjects:** school math and science, AP math, AP CS A, AP CSP, SAT Math and English
-- **Competition math:** AMC 10, AMC 8, USACO Gold
+- **Taught Subjects:** school math and science, AP math, AP CS A, AP CSP, SAT Math and English
