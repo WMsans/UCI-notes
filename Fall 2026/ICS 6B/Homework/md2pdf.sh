@@ -37,6 +37,8 @@ pandoc "$tmp_md" \
   -o "$output" \
   --pdf-engine=xelatex \
   --lua-filter="$filter" \
-  -V geometry:margin=1in
+  --lua-filter="$script_dir/mermaid.lua" \
+  -V geometry:margin=1in \
+  -V monofont="DejaVu Sans Mono"
 
 echo "Wrote $output"
