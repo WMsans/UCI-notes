@@ -1,7 +1,3 @@
----
-title: 从剧本转向游戏叙事
----
-
 # 从剧本转向游戏叙事
 
 > 参考视频：<https://www.youtube.com/watch?v=Xpfm_xtKZdc>

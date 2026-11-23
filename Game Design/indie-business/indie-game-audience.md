@@ -1,7 +1,3 @@
----
-title: 关于谁在玩独立游戏
----
-
 # 关于谁在玩独立游戏
 
 > 参考视频：<https://www.youtube.com/watch?v=wnKI3BsSmUE>

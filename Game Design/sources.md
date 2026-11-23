@@ -1,7 +1,3 @@
----
-title: 延伸阅读与外部链接
----
-
 # 延伸阅读与外部链接
 
 原文档中只有链接、没有正文的部分，集中放在这里。
@@ -27,6 +23,7 @@ Bilibili 专栏：<https://www.bilibili.com/opus/1040128319038685186>
 | 主题 | 链接 |
 | --- | --- |
 | 回路设计案例（动物井） | <https://www.bilibili.com/video/BV1gVy8YQEiy?t=99.6> |
+| 打破惯例的复合玩法（荒野之息 GDC 2017） | <https://www.youtube.com/watch?v=QyMsF31NdNc> |
 | 星际拓荒与带着问题探索 | <https://www.bilibili.com/video/BV1FzwreLEjh> |
 | 游戏简介：30 个要点 | <https://www.youtube.com/watch?v=4LTtr45y7P0> |
 | 谁在玩独立游戏 | <https://www.youtube.com/watch?v=wnKI3BsSmUE> |

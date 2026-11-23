@@ -1,7 +1,3 @@
----
-title: 游戏简介 / Pitch — 30 个要点
----
-
 # 游戏简介：30 个要点
 
 > 参考视频：<https://www.youtube.com/watch?v=4LTtr45y7P0>

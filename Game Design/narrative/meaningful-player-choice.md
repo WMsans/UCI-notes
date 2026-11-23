@@ -1,7 +1,3 @@
----
-title: 如何让玩家的选择显得重要 — 级联、回调、启发式
----
-
 # 如何让玩家的选择在你的叙述中显得很重要
 
 > 参考视频：<https://www.youtube.com/watch?v=KU3FlTpxSyk>
