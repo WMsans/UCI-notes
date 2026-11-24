@@ -4,7 +4,7 @@ Math Teacher & Academic Counselor
 
 Irvine, CA | jeremyzhao091@gmail.com | 949-482-7445 | Mandarin · English
 
-## Acedemic Achievements
+## Academic Achievements
 
 - Scored 145/150 on the AMC 10
 - Scored 24/25 on the AMC 8
@@ -12,7 +12,7 @@ Irvine, CA | jeremyzhao091@gmail.com | 949-482-7445 | Mandarin · English
 
 ## Teaching Experience
 
-### Private Tutor | 2025 – Present
+### Private Tutor | 2024 – Present
 
 *Independent · students via RedNote*
 
@@ -31,11 +31,11 @@ Irvine, CA | jeremyzhao091@gmail.com | 949-482-7445 | Mandarin · English
 
 *Hepu tutoring program, Shanghai*
 
-- Taught math, english and history subjects to elementary students in Shanghai over video
+- Taught math, English, and history to elementary students in Shanghai over video
 
 ## Education
 
-### Portola High, Irvine | 2022-2026
+### Portola High, Irvine | 2022 – 2026
 ### University of California, Irvine | Expected 2030
 
 *B.S. Computer Science*
